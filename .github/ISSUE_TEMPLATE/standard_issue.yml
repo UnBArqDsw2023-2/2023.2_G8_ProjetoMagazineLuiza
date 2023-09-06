@@ -42,8 +42,7 @@ body:
     id: terms
     attributes:
       label: Código de Conduta
-      description: Ao enviar essa issue, você concorda em seguir nosso [Código de Conduta.](2023.2_G8_ProjetoMagazineLuiza
-/CODE_OF_CONDUCT.md)
+      description: Ao enviar essa issue, você concorda em seguir nosso [Código de Conduta.](./CODE_OF_CONDUCT.md)
       options:
         - label: Concordo em seguir o Código de Conduta.
           required: true
