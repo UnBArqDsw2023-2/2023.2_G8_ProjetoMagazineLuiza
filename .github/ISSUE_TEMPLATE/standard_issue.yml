@@ -1,0 +1,48 @@
+name: standard issue
+description: standard template for issues.
+labels: ["standard-issue"]
+
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Descrição
+      description: Descreva o problema ou a melhoria que você gostaria de discutir ou implementar.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+      description: Se aplicável, forneça os passos necessários para reproduzir o problema.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Contexto Adicional
+      description: Forneça qualquer contexto adicional que possa ser relevante, como informações sobre o ambiente em que o problema foi observado.
+    validations:
+      required: false
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tarefas
+      description: Liste as tarefas específicas necessárias para resolver esta issue.
+    validations:
+      required: true
+  - type: textarea
+    id: deadline
+    attributes:
+      label: Prazo
+      description: Indique qualquer prazo ou data de entrega desejada, se aplicável.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Código de Conduta
+      description: Ao enviar essa issue, você concorda em seguir nosso [Código de Conduta.](../CODE_OF_CONDUCT.md)
+      options:
+        - label: Concordo em seguir o Código de Conduta.
+          required: true
