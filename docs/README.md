@@ -1,26 +1,22 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.2_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Projeto Magazine Luiza
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 08<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| Matrícula | Aluno                                     |                                                                        Github                                                                         |
+|-----------|-------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 211029156 | Brunna Louise Martins Rocha                        |       <img src="https://github.com/brunna-martins.png" alt="brunna-martins" style="width: 10vw"><br/> [@Dbrunna-martins](https://github.com/brunna-martins)        |
+| 190113596 | Charles Manrique Serafim Morais                        |               <img src="https://github.com/charles-serafim.png" alt="charles-serafim" style="width: 10vw"><br/> [@charles-serafim](https://github.com/charles-serafim)                |
+| 200036351 | Clara Marcelino Ribeiro de Sousa      |         <img src="https://github.com/clara-ribeiro.png" alt="clara-ribeiro" style="width: 10vw"><br/> [@clara-ribeiro](https://github.com/clara-ribeiro)          |
+| 200018442 | Gabrielly Assunção Rodrigues                   |               <img src="https://github.com/GabriellyAssuncao.png" alt="GabriellyAssuncao" style="width: 10vw"><br/> [@GabriellyAssuncao](https://github.com/GabriellyAssuncao)                |
+| 200037994 | Guilherme Barbosa Ferreira                  |         <img src="https://github.com/guibrbs.png" alt="guibrbs" style="width: 10vw"><br/> [@guibrbs](https://github.com/guibrbs)          |
+| 202023743 | Iago de Sousa Campelo Matos                       |       <img src="https://github.com/iagoscm.png" alt="iagoscm" style="width: 10vw"><br/> [@iagoscm](https://github.com/iagoscm)        |
+| 170107574 | Laís Ramos Barbosa         | <img src="https://github.com/laisramos123.png" alt="laisramos123" style="width: 10vw"><br/> [@laisramos123](https://github.com/laisramos123)  |
+| 200041959 | Mauricio Machado Fernandes Filho                      |     <img src="https://github.com/MauricioMachadoFF.png" alt="MauricioMachadoFF" style="width: 10vw"><br/> [@MauricioMachadoFF](https://github.com/MauricioMachadoFF)      |
+| 200025449 | Natan Tavares Santana                 |   <img src="https://github.com/Neitan2001.png" alt="Neitan2001" style="width: 10vw"><br/> [@Neitan2001](https://github.com/Neitan2001)    |
+| 190117508 | Thiago Cerqueira Borges |     <img src="https://github.com/Thiago-Cerq.png" alt="Thiago-Cerq" style="width: 10vw"><br/> [@Thiago-Cerq](https://github.com/Thiago-Cerq)      |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
