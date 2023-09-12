@@ -2,6 +2,11 @@
 
 ## 1. Introdução & Objetivo
 
+<p align="justify">
+O rich picture é uma representação visual que consegue capturar de forma eficaz sistemas, processos e problemas complexos. Sua grande vantagem está na capacidade de transmitir informações de maneira clara e detalhada.
+Isso resulta em uma compreensão mais acessível e abrangente das circunstâncias, o que é muito vantajoso em contextos que envolvem colaboração e trabalho em equipe.
+</p>
+
 ## 2. Metodologia, elementos e legendas
 
 ## 3. Versões iniciais
@@ -21,3 +26,4 @@
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
 | 11/09/2023 |  1.0   | Criação do documento | [Charles Serafim](https://github.com/charles-serafim)| 
 | 11/09/2023 |  1.1   | Adição do Rich Picture Ver 02 | [Thiago Cerqueira](https://github.com/Thiago-Cerq)| 
+| 12/09/2023 |  1.2   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao)| 
