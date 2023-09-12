@@ -1,4 +1,5 @@
 # Milestones
+
 ## Conceito
 Metodologia prática desenvolvida para o acompanhamento do sucesso do cliente através de **marcos de sucesso**. Consiste basicamente das etapas intermediárias que o seu *user boarding* (usuário ou cliente) precisa passar para atingir o sucesso desejado.
 
@@ -21,6 +22,12 @@ Portanto os milestones cumprem uma função bem importante para o alcance de obj
     * Criação de milestones que façam sentido para o contexto específico do cliente.
 3. ### Sempre pensem nos próximos secess milestones do cliente
     * Mais do pensar no objetivo de sucesso do cliente, é necessário o alinhamento junto ao cliente para planejar quais serão o próximo marco de sucesso.
+
+## Histórico de versão
+| Versão        | Alteração | Responsável| Revisor | Data|
+|--------------|:-----:|-----------:|-----------:|-----------:|
+| 1.0 |  Criação do documento |       Laís Ramos| Maurício Machado| 09/09 |
+| 1.1      |  Adição do histórico de versões|         Laís Ramos | Maurício Machado |12/09|
 
 ## Referências Bibliográficas
 * [O que é Milestone](https://blog.runrun.it/o-que-e-milestone/)
