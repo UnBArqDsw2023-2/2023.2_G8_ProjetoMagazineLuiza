@@ -1,6 +1,6 @@
 # Rich Picture
 
-## 1. Introdução & Objetivo
+## 1. Introdução
 
 <p align="justify">
 O rich picture é uma representação visual que consegue capturar de forma eficaz sistemas, processos e problemas complexos. Sua grande vantagem está na capacidade de transmitir informações de maneira clara e detalhada.
