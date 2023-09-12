@@ -17,35 +17,60 @@ Neste documento, apresentamos os rich pictures elaborados para ilustrar a relaç
 Os rich pictures foram elaborados por duas duplas participantes do projeto e teve como base a observação da plataforma. Na Tabela 1, apresentamos os elementos utilizados para a confecção dos rich pictures:
 </p>
 
+### 2.1 Legenda do Rich Picture Versão 1.1
+
 | Elemento | Figura | Descrição |
 | -------- | ------ | --------- |
-| Ator | ![Atores](../Assets/rich_picture_atores_1.png) | Pessoas, grupos ou entidades que desempenham um papel no sistema. |
+| Ator | ![Atores](../Assets/rich_picture_atores_1.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
 | Dados | ![Dados](../Assets/rich_picture_dados_1.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
 | Flechas | ![Flechas](../Assets/rich_picture_flechas_1.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
 | Operações | ![Operações](../Assets/rich_picture_operacoes_1.png) | Atividades ou ações que os atores realizam no sistema. |
 | Limites do Sistema | ![Limites do Sistema](../Assets/rich_picture_sistema_1.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
 
 <div style="text-align: center">
-<p>Tabela 1: Legendas dos elementos do rich picture</p>
+<p>Tabela 1: Legendas dos elementos do rich picture ver 1.1 </p>
 </div>
 
-## 3. Versões iniciais
+### 2.2 Legenda do Rich Picture Versão 2.1
 
-## 4. Rich Picture
+| Elemento | Figura | Descrição |
+| -------- | ------ | --------- |
+| Ator | ![Atores](../Assets/rich_picture_atores_2.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
+| Dados | ![Dados](../Assets/rich_picture_dados_2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
+| Flechas | ![Flechas](../Assets/rich_picture_flechas_2.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
+| Operações | ![Operações](../Assets/rich_picture_operacoes_2.png) | Atividades ou ações que os atores realizam no sistema. |
+| Limites do Sistema | ![Limites do Sistema](../Assets/rich_picture_sistema_2.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
 
-### Rich Picture Versão 02
+<div style="text-align: center">
+<p>Tabela 1: Legendas dos elementos do rich picture versão 2.1 </p>
+</div>
+
+
+## 3 Rich Picture
+
+### 3.1 Rich Picture Versão 1.1
+ <img src="https://github.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/blob/19-rich-pictures/imagens/Rich-Magalu-01.jpg">
+ 
+ <div style="text-align: center">
+<p>Fonte: Imagem 1 - Rich picture magalu versão 1.1 </p>
+</div>
+
+### 3.2 Rich Picture Versão 2.1
  <img src="https://github.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/blob/19-rich-pictures/imagens/Rich-Magalu-02.jpg">
  
  <div style="text-align: center">
-<p>Fonte: Imagem 02 - Rich Picture Magalu Ver 02 </p>
+<p>Fonte: Imagem 2 - Rich picture magalu versão 2.1 </p>
 </div>
 
-## 5. Histórico de versionamento
+
+
+## 4. Histórico de versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
 | 11/09/2023 |  1.0   | Criação do documento | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
 | 11/09/2023 |  1.1   | Confecção dos rich pictures iniciais | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | 
-| 11/09/2023 |  1.2   | Adição do Rich Picture Ver 02 | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
+| 11/09/2023 |  1.2   | Adição do Rich Picture Ver 2.1 | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 | 12/09/2023 |  1.3   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
-| 13/09/2023 |  1.4   | Adição da metodologia | [Charles Serafim](https://github.com/charles-serafim) | 
+| 12/09/2023 |  1.4   | Adição da metodologia | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| 12/09/2023 |  1.5   | Adição do Rich Picture Ver 1.1 e Legenda do 2.1  | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Laís Ramos](https://github.com/laisramos123) | 
