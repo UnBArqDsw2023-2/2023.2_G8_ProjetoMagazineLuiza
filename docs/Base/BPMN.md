@@ -8,13 +8,13 @@ A principal vantagem do BPMN é sua capacidade de comunicar de forma eficaz como
 </p>
 
 <p align="justify">
-Neste documento, apresentamos os diagramas de fluxo BPMN referentes às metodologias utilizadas para o desenvolvimento do projeto, bem como dos fluxos compreendidos nas avaliações dos produtos na plataforma do e-commerce do [Magazine Luiza](https://magazineluiza.com.br/).
+Neste documento, apresentamos os diagramas de fluxo BPMN referentes às metodologias utilizadas para o desenvolvimento do projeto, bem como dos fluxos compreendidos nas avaliações dos produtos na plataforma do e-commerce do <a href="https://magazineluiza.com.br/">Magazine Luiza</a>.
 </p>
 
 ## 2. Metodologia
 
 <p align="justify">
-A equipe utilizou o Discord para as reuniões de confecção dos BPMN, que foram produzidos na plataforma [Camunda.io](https://modeler.cloud.camunda.io/).
+A equipe utilizou o Discord para as reuniões de confecção dos BPMN, que foram produzidos na plataforma <a href="https://modeler.cloud.camunda.io/">Camunda.io</a>.
 </p>
 
 ## 3. BPMN Metodologia
