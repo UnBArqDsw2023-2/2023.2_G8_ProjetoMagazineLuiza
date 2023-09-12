@@ -9,6 +9,8 @@
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [BPMN](Base/BPMN.md)
     - [1.3. Participações - Base](./Base/1.3.ParticipacoesBase.md)
+    - [1.4. Léxicos](./Base/Lexicos.md)
+    - [1.5. Glossário](./Base/Glossario.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
