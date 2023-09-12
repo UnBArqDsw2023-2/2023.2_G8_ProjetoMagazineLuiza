@@ -49,19 +49,21 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 ## 3 Rich Picture
 
 ### 3.1 Rich Picture Versão 1.1
- <img src="https://github.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/blob/19-rich-pictures/imagens/Rich-Magalu-01.jpg">
+ <img src="../Assets/Rich-Magalu-01.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 1 - Rich picture magalu versão 1.1 </p>
 </div>
 
 ### 3.2 Rich Picture Versão 2.1
- <img src="https://github.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/blob/19-rich-pictures/imagens/Rich-Magalu-02.jpg">
+ <img src="../Assets/Rich-Magalu-02.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 2 - Rich picture magalu versão 2.1 </p>
 </div>
 
+## Conclusão
+A elaboração de duas versões diferentes do Rich Picture  proprociona à equipe diferentes pontos de vista acerca dos fluxos percorridos para a avaliação de produtos. Com esses artefatos em mão, foi possível analisar pontos fortes e fracos desse fluxo e a possibilidade de novas features e possíveis melhorias.
 
 
 ## 4. Histórico de versionamento
@@ -74,3 +76,4 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 | 12/09/2023 |  1.3   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
 | 12/09/2023 |  1.4   | Adição da metodologia | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
 | 12/09/2023 |  1.5   | Adição do Rich Picture Ver 1.1 e Legenda do 2.1  | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Laís Ramos](https://github.com/laisramos123) | 
+|12/09/2023|1.6|Correção de links do richpicture e adição da conclusão|[Laís Ramos](https://github.com/laisramos123)|[Gabrielly Assunção](https://github.com/GabriellyAssuncao)|
