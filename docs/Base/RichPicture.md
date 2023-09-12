@@ -8,7 +8,7 @@ Isso resulta em uma compreensão mais acessível e abrangente das circunstância
 </p>
 
 <p align="justify">
-Neste documento, apresentamos os rich pictures elaborados para ilustrar a relação entre os atores e sistema envolvidos nos fluxos compreendidos nas avaliações dos produtos na plataforma do e-commerce do [Magazine Luiza](https://magazineluiza.com.br/).
+Neste documento, apresentamos os rich pictures elaborados para ilustrar a relação entre os atores e sistema envolvidos nos fluxos compreendidos nas avaliações dos produtos na plataforma do e-commerce do <a href="https://magazineluiza.com.br/">Magazine Luiza</a>.
 </p>
 
 ## 2. Metodologia, elementos e legendas
