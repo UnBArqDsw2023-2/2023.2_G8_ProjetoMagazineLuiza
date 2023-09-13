@@ -56,7 +56,7 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 </div>
 
 ### 3.2. Rich Picture Versão 2.1
- <img src="../Assets/Rich-Magalu-02.jpg">
+ <img src="../Assets/Rich-Magalu-02-versao2.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 2 - Rich picture magalu versão 2.1 </p>
@@ -84,7 +84,8 @@ A elaboração de duas versões diferentes do Rich Picture  proprociona à equip
 | 11/09/2023 |  1.2   | Adição do Rich Picture Ver 2.1 | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 | 12/09/2023 |  1.3   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
 | 12/09/2023 |  1.4   | Adição da metodologia | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
-| 12/09/2023 |  1.5   | Adição do Rich Picture Ver 1.1 e Legenda do 2.1  | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Laís Ramos](https://github.com/laisramos123) | 
-| 12/09/2023 |  1.6   | Correção de links do richpicture e adição da conclusão | [Laís Ramos](https://github.com/laisramos123) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
+| 12/09/2023 |  1.5   | Adição do RichPicture Ver 1.1 e Legenda do 2.1  | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Laís Ramos](https://github.com/laisramos123) | 
+| 12/09/2023 |  1.6   | Correção de links do RichPicture e adição da conclusão | [Laís Ramos](https://github.com/laisramos123) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 | 13/09/2023 |  1.7   | Adição das Referências Bibliográficas | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
-| 13/09/2023 |  1.8   | Adição da nova versão do RichPicture 01 |  [Laís Ramos](https://github.com/laisramos123) | |
+| 13/09/2023 |  1.8   | Adição da nova versão do RichPicture 01 |  [Laís Ramos](https://github.com/laisramos123) |[Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| 13/09/2023 |  1.9   | Adição da nova versão do RichPicture 02 |[Thiago Cerqueira](https://github.com/Thiago-Cerq) |[Laís Ramos](https://github.com/laisramos123) |
