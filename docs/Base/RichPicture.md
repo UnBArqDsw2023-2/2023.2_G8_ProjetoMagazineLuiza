@@ -22,7 +22,7 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 | Elemento | Figura | Descrição |
 | -------- | ------ | --------- |
 | Ator | ![Atores](../Assets/rich_picture_atores_1.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
-| Dados | ![Dados](../Assets/rich_picture_dados_1.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
+| Dados | ![Dados](../Assets/dadosVersao2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
 | Flechas | ![Flechas](../Assets/rich_picture_flechas_1.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
 | Operações | ![Operações](../Assets/rich_picture_operacoes_1.png) | Atividades ou ações que os atores realizam no sistema. |
 | Limites do Sistema | ![Limites do Sistema](../Assets/rich_picture_sistema_1.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
@@ -49,7 +49,7 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 ## 3. Rich Picture
 
 ### 3.1. Rich Picture Versão 1.1
- <img src="../Assets/Rich-Magalu-01.jpg">
+ <img src="../Assets/Rich-Magalu-01-versao2.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 1 - Rich picture magalu versão 1.1 </p>
@@ -87,3 +87,4 @@ A elaboração de duas versões diferentes do Rich Picture  proprociona à equip
 | 12/09/2023 |  1.5   | Adição do Rich Picture Ver 1.1 e Legenda do 2.1  | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Laís Ramos](https://github.com/laisramos123) | 
 | 12/09/2023 |  1.6   | Correção de links do richpicture e adição da conclusão | [Laís Ramos](https://github.com/laisramos123) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 | 13/09/2023 |  1.7   | Adição das Referências Bibliográficas | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| 13/09/2023 |  1.8   | Adição da nova versão do RichPicture 01 |  [Laís Ramos](https://github.com/laisramos123) | |
