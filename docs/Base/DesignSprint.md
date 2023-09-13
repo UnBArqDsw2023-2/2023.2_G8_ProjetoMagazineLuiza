@@ -8,14 +8,33 @@ A metodologia utilizada pela equipe foi norteada pela técnica Design Sprint cri
 
 A Design Sprint possui, a princícipio, 5 fases, cada uma realizada em um dia da semana: na segunda, o problema a ser solucionado pelo software será mapeado e estudado pela equipe a fim de escolher um ponto de foco do projeto. Na terça, soluções para esse problema devem ser colocadas no papel. Na quarta, a equipe deverá tomar decisões para tornar todas as ideias em hipóteses testáveis. Na quinta, um protótipo de alta-fidelidade deverá ser feito. Finalmente, na sexta, o protótipo deverá ser testado por possíveis usuários do sistema.
 
-É importante destacar que a equipe não conseguiu efetivamente seguir à risca o processo de Design Sprint. Apesar de todas as etapas terem sido concluídas, o tempo em cada uma delas é diferente de 1 dia (podendo ser superior ou inferior a 1 dia) e, além disso, a sprint ocorreu em um período superior a 5 dias, tempo proposto no processo original. 
+É importante destacar que a equipe não conseguiu efetivamente seguir à risca o processo de Design Sprint. Apesar de todas as etapas terem sido concluídas, o tempo em cada uma delas é diferente de 1 dia (podendo ser superior ou inferior a 1 dia) e, além disso, a sprint ocorreu em um período superior a 5 dias, tempo proposto no processo original.
 
 ## 3. Design Sprint
 
 ### 3.1. Unpack
 
-documentar brainstorm de metodologias (pedir fotos das etapas para @MauricioMachadoFF)
- documentar mapa mental das metodologias (parte de metodologias deve ter um arquivo exclusivo para ele)
+Na etapa de unpack, primeiramente fizemos em grupo um brainstorm em cima das metodologias que usaríamos no nosso projeto. O brainstorming é uma técnica bastante útil para a geração de ideias, pois permite que os participantes se expressem livremente, sem medo de críticas ou julgamentos. Além disso, a técnica permite que os participantes se inspirem nas ideias uns dos outros, gerando novas ideias a partir de ideias já existentes. O brainstorming consiste em uma reunião de um grupo de pessoas, que deve ser moderada por um facilitador, que deve garantir que todos os participantes tenham a oportunidade de se expressar. O brainstorming foi feito no Miro, uma ferramenta de colaboração online, e as fotos do brainstorming podem ser vistas abaixo:
+
+![Primeira foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(1).jpg)
+
+<em><center> Figura 1
+Autor: Todos
+
+![Segunda foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(2).jpg)
+
+Figura 2
+Autor: Todos
+
+![Terceira foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(3).jpg)
+
+Figura 3
+Autor: Todos</center></em>
+
+Após isso, fizemos um mapa mental das metodologias que usaríamos no projeto. O mapa mental é uma técnica de organização de ideias que permite que as ideias sejam organizadas de forma hierárquica, de modo que as ideias mais gerais fiquem para o centro e as ideias mais específicas fiquem para as extremidades. O mapa mental também foi feito no Miro, e a foto do mapa mental pode ser vista abaixo:
+
+
+
  documentar brainstorm do projeto (segundo brainstorm realizado no miro, pedir fotos para @Neitan2001 e @iagoscm)
  documentar mapa mental do projeto (segundo mapa mental realizado no miro, feito pelo Iago e pela Brunna)
 
