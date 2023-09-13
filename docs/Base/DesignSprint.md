@@ -33,7 +33,27 @@ Autor: Todos</center></em>
 
 Após isso, fizemos um mapa mental das metodologias que usaríamos no projeto. O mapa mental é uma técnica de organização de ideias que permite que as ideias sejam organizadas de forma hierárquica, de modo que as ideias mais gerais fiquem para o centro e as ideias mais específicas fiquem para as extremidades. O mapa mental também foi feito no Miro, e a foto do mapa mental pode ser vista abaixo:
 
+![Mapa mental de Metodologias](../assets/Mapa%20Mental%20Metodologias.jpg)
 
+<em><center> Figura 4
+Autor: Todos</center></em>
+
+Após isso, fizemos um brainstorm em cima do problema que queríamos resolver com o nosso projeto. O brainstorming foi feito no Miro, e as fotos do brainstorming podem ser vistas abaixo:
+
+![Início do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(2).jpg)
+
+<em><center> Início do Brainstorm
+Autor: Todos
+
+![Continuação e Refinamento do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(1).jpg)
+
+Continuação e Refinamento do Brainstorm
+Autor: Iago, Natan e Maurício
+
+![Priorização de Atividades](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(3).jpg)
+
+Priorização de Atividades
+Autor: Iago, Natan e Maurício</center></em>
 
  documentar brainstorm do projeto (segundo brainstorm realizado no miro, pedir fotos para @Neitan2001 e @iagoscm)
  documentar mapa mental do projeto (segundo mapa mental realizado no miro, feito pelo Iago e pela Brunna)
@@ -59,3 +79,4 @@ fase final, provavelmente não documentável até a entrega
 | Data       | Versão  | Modificação        | Autor   | Revisor   |
 |------------|---------|--------------------|---------| -------  |
 | 13/09/2023 | 0.1 | Criação do template | Brunna Louise | - |
+| 13/09/2023 | 0.2 | Adição do Unpack  | Iago Matos | - |
