@@ -14,49 +14,11 @@ A Design Sprint possui, a princícipio, 5 fases, cada uma realizada em um dia da
 
 ### 3.1. Unpack
 
-Na etapa de unpack, primeiramente fizemos em grupo um brainstorm em cima das metodologias que usaríamos no nosso projeto. O brainstorming é uma técnica bastante útil para a geração de ideias, pois permite que os participantes se expressem livremente, sem medo de críticas ou julgamentos. Além disso, a técnica permite que os participantes se inspirem nas ideias uns dos outros, gerando novas ideias a partir de ideias já existentes. O brainstorming consiste em uma reunião de um grupo de pessoas, que deve ser moderada por um facilitador, que deve garantir que todos os participantes tenham a oportunidade de se expressar. O brainstorming foi feito no Miro, uma ferramenta de colaboração online, e as fotos do brainstorming podem ser vistas abaixo:
+&emsp;&emsp; Na etapa de unpack, primeiramente fizemos em grupo um brainstorm em cima das metodologias que usaríamos no nosso projeto. O brainstorming é uma técnica bastante útil para a geração de ideias, pois permite que os participantes se expressem livremente, sem medo de críticas ou julgamentos. Além disso, a técnica permite que os participantes se inspirem nas ideias uns dos outros, gerando novas ideias a partir de ideias já existentes. O brainstorming consiste em uma reunião de um grupo de pessoas, que deve ser moderada por um facilitador, que deve garantir que todos os participantes tenham a oportunidade de se expressar. Após isso, fizemos um mapa mental das metodologias que usaríamos no projeto. O mapa mental é uma técnica de organização de ideias que permite que as ideias sejam organizadas de forma hierárquica, de modo que as ideias mais gerais fiquem para o centro e as ideias mais específicas fiquem para as extremidades. O brainstorming e o mapa mental foram feitos no Miro, e as fotos podem ser vistas na página de [Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens).
 
-![Primeira foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(1).jpg)
+&emsp;&emsp; Após isso, fizemos um brainstorm em cima do problema que queríamos resolver com o nosso projeto. O brainstorming foi feito no Miro, e as fotos do brainstorming podem ser vistas na [página de brainstorming do projeto](./Base/Brainstorm.md).
 
-<em><center> Figura 1
-Autor: Todos
-
-![Segunda foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(2).jpg)
-
-Figura 2
-Autor: Todos
-
-![Terceira foto do Brainstorm de Metodologias](../assets/BrainstormMetodologias%20(3).jpg)
-
-Figura 3
-Autor: Todos</center></em>
-
-Após isso, fizemos um mapa mental das metodologias que usaríamos no projeto. O mapa mental é uma técnica de organização de ideias que permite que as ideias sejam organizadas de forma hierárquica, de modo que as ideias mais gerais fiquem para o centro e as ideias mais específicas fiquem para as extremidades. O mapa mental também foi feito no Miro, e a foto do mapa mental pode ser vista abaixo:
-
-![Mapa mental de Metodologias](../assets/Mapa%20Mental%20Metodologias.jpg)
-
-<em><center> Figura 4
-Autor: Todos</center></em>
-
-Após isso, fizemos um brainstorm em cima do problema que queríamos resolver com o nosso projeto. O brainstorming foi feito no Miro, e as fotos do brainstorming podem ser vistas abaixo:
-
-![Início do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(2).jpg)
-
-<em><center> Início do Brainstorm
-Autor: Todos
-
-![Continuação e Refinamento do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(1).jpg)
-
-Continuação e Refinamento do Brainstorm
-Autor: Iago, Natan e Maurício
-
-![Priorização de Atividades](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(3).jpg)
-
-Priorização de Atividades
-Autor: Iago, Natan e Maurício</center></em>
-
- documentar brainstorm do projeto (segundo brainstorm realizado no miro, pedir fotos para @Neitan2001 e @iagoscm)
- documentar mapa mental do projeto (segundo mapa mental realizado no miro, feito pelo Iago e pela Brunna)
+&emsp;&emsp; À partir do conhecimento do fluxo, das dores que queríamos alcançar e das melhorias que entendemos que seriam boas para o projeto, fizemos um mapa mental do diferentes partes do fluxo abordando desde características já existentes no projeto, até melhorias que ainda não foram implementadas e que pretendemos implementar. As fotos e documentação sobre o mapa mental podem ser encontradas na [página de mapa mental do projeto](./Base/MapaMental.md).
 
 ### 3.2. Sketch
 demais artefatos de desenho
@@ -76,7 +38,7 @@ fase final, provavelmente não documentável até a entrega
 
 ## 5. Histórico de Versões
 
-| Data       | Versão  | Modificação        | Autor   | Revisor   |
-|------------|---------|--------------------|---------| -------  |
-| 13/09/2023 | 0.1 | Criação do template | Brunna Louise | - |
-| 13/09/2023 | 0.2 | Adição do Unpack  | Iago Matos | - |
+| Data       | Versão | Modificação         | Autor         | Revisor |
+|------------|--------|---------------------|---------------|---------|
+| 13/09/2023 | 0.1    | Criação do template | Brunna Louise | -       |
+| 13/09/2023 | 0.2    | Adição do Unpack    | Iago Matos    | -       |

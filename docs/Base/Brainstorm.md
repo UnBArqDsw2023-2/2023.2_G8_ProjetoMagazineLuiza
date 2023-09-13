@@ -1,72 +1,31 @@
 # Brainstorming
+----
 
 ## 1. Introdução
+&emsp;&emsp; O brainstorming é uma técnica bastante útil para a geração de ideias, pois permite que os participantes se expressem livremente, sem medo de críticas ou julgamentos. Além disso, a técnica permite que os participantes se inspirem nas ideias uns dos outros, gerando novas ideias a partir de ideias já existentes. O brainstorming consiste em uma reunião de um grupo de pessoas, que deve ser moderada por um facilitador, que deve garantir que todos os participantes tenham a oportunidade de se expressar.
 
-&emsp;&emsp;A técnica de brainstorming consiste em uma sessão de conversa bastante livre entre os engenheiros de requisitos, com o objetivo de levantar requisitos e aprender sobre novas características que os usuários gostariam no produto. Esta técnica é normalmente aplicada durante o estágio conceitual do produto, quando pouco do produto e do processo é conhecido, assim permitindo um melhor entendimento por parte dos desenvolvedores.
+## 2. Brainstorming do Projeto
 
-## 2. Participantes
+&emsp;&emsp; O brainstorming foi feito no Miro, objetivando trazer dores e soluções sobre o fluxo de avaliação do Magazine Luiza. As fotos do brainstorming podem ser vistas abaixo:
 
-- Adne Moretti Moreira
-- Arthur José Nascimento de Lima
-- Christian Fleury Alencar Siqueira
-- Cícero Barrozo Fernandes Filho
-- Gabriel Moretti de Souza
-- João Henrique Marques Calzavara
-- Leonardo Milomes Vitoriano
-- Letícia Assunção Aires Moreira
-- Marcos Vinicius de Deus
-- Matheus Pimentel Leal
-- Thiago Siqueira Gomes
+![Início do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(2).jpg)
 
-## 3. Brainstorming
+<em><center> Início do Brainstorm
+Autor: Todos
 
-- Mediador - Cícero
-- Observador - Matheus
+![Continuação e Refinamento do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(1).jpg)
 
-&emsp;&emsp; Abaixo, o brainstorming realizado na ferramenta "Miro".
+Continuação e Refinamento do Brainstorm
+Autor: Iago, Natan e Maurício
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMR5ENS8=/?moveToViewport=11662,-33776,17523,8688&embedId=716684158285" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+![Priorização de Atividades](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(3).jpg)
 
-<p align='center'>
-Figura 1 - Brainstorming <br>Autor: Todos
-</p>
+Priorização de Atividades
+Autor: Iago, Natan e Maurício</center></em>
 
-### 3.1 Anotações do observador Matheus
+Nesse brainstorm, todos os participantes deram suas ideias, e em uma reunião à parte, os integrantes Iago, Natan e Maurício priorizaram as atividades que seriam realizadas nesta primeira parte do projeto. Dessa maneira, foi possível observar melhor as ideias e escolher as que seriam mais importantes para a fase inicial, e quais viriam depois, assim como descartar as que não valeriam a pena.
 
-<br>
-
-#### 3.1.1*Entender o fluxo de avaliação de produtos*
-
-<br>
-
-- Seria necessário uma UI descritiva para menor confusão do usuário ao realizar a avaliação
-
-- Seria interessante perguntas voltadas para o produto
-  - Perguntas diferentes para cada tipo / características do produto
-- Avaliação das perguntas em estrelas como de 1 à 5
-  - Utilização da escala de likert
-- Um campo para preenchimento de possíveis recomendações e reclamações
-- Opção de adicionar anexos (imagens e vídeos) ao comentário de recomendações e reclamações
-- Média de avaliações do produto estar disponível para o usuário que está avaliando
-  - Overview das avaliações de um produto como em lojas virtuais (gnome software, play store, ...)
-- Avaliação das avaliações do produto (como no reddit, stackoverflow)
-- Incentivos baseados em avaliações bem avaliadas
-  - Geração de incentivos com base na quantidade de _upvotes_ ou _likes_ que a avaliação recebeu
-- Filtro de avaliações (filtrar por opções como avaliações boas e ruins)
-  - Busca de palavras-chave
-- Sistema de moderação de avaliações / denúncia de avaliações ruins
-- A loja / pessoa que realizou a venda deveria possuir forma de resposta à avaliações
-  - Com isso, seria necessário a identificação diferente da loja em meio aos comentários
-  - Restrição de resposta à comentário apenas aos vendedores
-  - Notificação da resposta ao usuário criador da avaliação
-- Limite de tempo de edição de comentários de avaliação
-- Possibilidade de realização de operações básicas (criação, edição, remoção e visualização)
-
-## 4. Gravação da reunião
-
-- https://www.youtube.com/watch?v=gkI6TRqxYHs&feature=youtu.be
-
-## 5. Histórico de Versão
+## 3. Histórico de Versão
 
 | Data       | Versão | Modificação         | Autor         | Revisor |
 |------------|--------|---------------------|---------------|---------|
