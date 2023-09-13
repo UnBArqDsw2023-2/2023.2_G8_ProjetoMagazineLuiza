@@ -14,13 +14,14 @@ Neste documento, apresentamos os diagramas de fluxo BPMN referentes às metodolo
 ## 2. Metodologia
 
 <p align="justify">
-A equipe utilizou o Discord para as reuniões de confecção dos BPMN, que foram produzidos na plataforma <a href="https://modeler.cloud.camunda.io/">Camunda.io</a>.
+Tendo como base os conhecimentos explanados em sala, a equipe utilizou o Discord para as reuniões de confecção dos BPMN, que foram produzidos na plataforma <a href="https://modeler.cloud.camunda.io/">Camunda.io</a>.
 </p>
 
 ## 3. BPMN Metodologia
 
 ## 4. BPMN Produto
-
+<img src="../Assets/avaliacoes.png">
+<p style="text-align: center">Fonte: Imagem 2 - BPMN do Produto</p>
 ## 5. Referências Bibliográficas
 
 > Instituto Serzedello Corrêa. Curso de mapeamento de processos de trabalho com BPMN e Bizagi - Aula 2. Disponível em: <https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B27E6D51C6C>. Acesso em: 12 set. de 2023.
@@ -35,5 +36,6 @@ A equipe utilizou o Discord para as reuniões de confecção dos BPMN, que foram
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
 | 11/09/2023 |  1.0   | Criação do documento | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
 | 12/09/2023 |  1.1   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
-| 12/09/2023 |  1.2   | Confecção do BPMN do produto | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123) |
-| 12/09/2023 |  1.3   | Adição da metodologia e referências | [Charles Serafim](https://github.com/charles-serafim) |
+| 12/09/2023 |  1.2   | Confecção do BPMN do produto | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123) | [Thiago Cerqueira](https://github.com/Thiago-Cerq)
+| 12/09/2023 |  1.3   | Adição da metodologia e referências | [Charles Serafim](https://github.com/charles-serafim) |[Laís Ramos](https://github.com/laisramos123)|
+|12/09/2023|1.3|Adição da imagem do BPMN do produto|[Laís Ramos](https://github.com/laisramos123)||
