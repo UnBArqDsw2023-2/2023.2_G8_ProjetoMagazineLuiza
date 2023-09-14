@@ -80,7 +80,7 @@ A elaboração de duas versões diferentes do Rich Picture  proprociona à equip
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
 | 11/09/2023 |  1.0   | Criação do documento | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
-| 11/09/2023 |  1.1   | Confecção dos rich pictures iniciais | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | zz
+| 11/09/2023 |  1.1   | Confecção dos rich pictures iniciais | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | -
 | 11/09/2023 |  1.2   | Adição do Rich Picture Ver 2.1 | [Thiago Cerqueira](https://github.com/Thiago-Cerq) | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
 | 12/09/2023 |  1.3   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
 | 12/09/2023 |  1.4   | Adição da metodologia | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
