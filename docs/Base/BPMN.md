@@ -76,7 +76,7 @@ A Figura 5 representa o subprocesso de "Avaliar produto", que foi referenciado t
 | 12/09/2023 |  1.1   | Adição da introdução | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) | [Charles Serafim](https://github.com/charles-serafim) |
 | 12/09/2023 |  1.2   | Confecção do BPMN atual da plataforma | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
 | 12/09/2023 |  1.3   | Adição da metodologia e referências | [Charles Serafim](https://github.com/charles-serafim) |[Laís Ramos](https://github.com/laisramos123)|
-| 12/09/2023 |  1.3   | Adição da imagem do BPMN do produto | [Laís Ramos](https://github.com/laisramos123) | [Charles Serafim](https://github.com/charles-serafim) |
-| 14/09/2023 |  1.4   | Confecção do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim), [Clara Ribeiro](https://github.com/clara-ribeiro), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | Grupo |
-| 14/09/2023 |  1.5   | Adição do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
-| 14/09/2023 |  1.6   | Adição do subprocesso de avaliação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Charles Serafim](https://github.com/charles-serafim) |
+| 12/09/2023 |  1.4   | Adição da imagem do BPMN do produto | [Laís Ramos](https://github.com/laisramos123) | [Charles Serafim](https://github.com/charles-serafim) |
+| 14/09/2023 |  1.5   | Confecção do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim), [Clara Ribeiro](https://github.com/clara-ribeiro), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | Grupo |
+| 14/09/2023 |  1.6   | Adição do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| 14/09/2023 |  1.7   | Adição do subprocesso de avaliação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Charles Serafim](https://github.com/charles-serafim) |
