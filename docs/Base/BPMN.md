@@ -53,6 +53,13 @@ A Figura 4 representa o fluxo das atividades que acontecem a partir do envio de 
 <img src="../Assets/bpmn_melhorias_03_pos_avaliacao.png">
 <p style="text-align: center">Figura 4: BPMN da Plataforma - Melhorias Pós-Avaliação.</p>
 
+### 4.4. BPMN da Plataforma - Subprocesso Avaliar produto
+
+A Figura 5 representa o subprocesso de "Avaliar produto", que foi referenciado tanto no fluxo de Melhorias na Avaliação quanto no fluxo de Melhorias Pós-Avaliação.
+
+<img src="../Assets/bpmn_avaliações-subproduto.png">
+<p style="text-align: center">Figura 5: BPMN da Plataforma - Subprocesso Avaliar produto.</p>
+
 ## 5. Referências Bibliográficas
 
 > Instituto Serzedello Corrêa. Curso de mapeamento de processos de trabalho com BPMN e Bizagi - Aula 2. Disponível em: <https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0B27E6D51C6C>. Acesso em: 12 set. de 2023.
@@ -70,5 +77,6 @@ A Figura 4 representa o fluxo das atividades que acontecem a partir do envio de 
 | 12/09/2023 |  1.2   | Confecção do BPMN atual da plataforma | [Charles Serafim](https://github.com/charles-serafim), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
 | 12/09/2023 |  1.3   | Adição da metodologia e referências | [Charles Serafim](https://github.com/charles-serafim) |[Laís Ramos](https://github.com/laisramos123)|
 | 12/09/2023 |  1.3   | Adição da imagem do BPMN do produto | [Laís Ramos](https://github.com/laisramos123) | [Charles Serafim](https://github.com/charles-serafim) |
-| 14/09/2023 |  1.4   | Confecção do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim), [Clara Ribeiro](https://github.com/clara-marcelino-desco), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | Grupo |
+| 14/09/2023 |  1.4   | Confecção do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim), [Clara Ribeiro](https://github.com/clara-ribeiro), [Gabrielly Assunção](https://github.com/GabriellyAssuncao), [Laís Ramos](https://github.com/laisramos123), [Thiago Cerqueira](https://github.com/Thiago-Cerq) | Grupo |
 | 14/09/2023 |  1.5   | Adição do BPMN das melhorias | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| 14/09/2023 |  1.6   | Adição do subprocesso de avaliação | [Clara Ribeiro](https://github.com/clara-ribeiro) | [Charles Serafim](https://github.com/charles-serafim) |

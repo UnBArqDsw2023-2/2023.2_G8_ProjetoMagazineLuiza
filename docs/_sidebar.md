@@ -7,10 +7,13 @@
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](./Base/1.1.AbordagemNaoEspecifica.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](./Base/1.2.ProcessosMetodologiasAbordagens.md)
-      - [BPMN](Base/BPMN.md)
     - [1.3. Participações - Base](./Base/1.3.ParticipacoesBase.md)
-    - [1.4. Léxicos](./Base/Lexicos.md)
-    - [1.5. Glossário](./Base/Glossario.md)
+    - [1.4. Design Sprint](./Base/DesignSprint.md)
+      - [1.4.1 Léxicos](./Base/Lexicos.md)
+      - [1.4.2 Glossário](./Base/Glossario.md)
+      - [1.4.3 Brainstorm](./Base/Brainstorm.md)
+      - [1.4.4 Mapa Mental](./Base/MapaMental.md)
+      - [1.4.5 BPMN da Plataforma](./Base/BPMN.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
