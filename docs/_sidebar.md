@@ -2,6 +2,7 @@
 
 - [Home](./README.md)
 - [Diretrizes](./Diretrizes/Diretrizes.md)
+- [Políticas de Contribuição](./CONTRIBUTING.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
