@@ -2,6 +2,7 @@
 
 - [Home](./README.md)
 - [Diretrizes](./Diretrizes/Diretrizes.md)
+- [Políticas de Contribuição](./CONTRIBUTING.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
@@ -14,6 +15,7 @@
       - [1.4.3 Brainstorm](./Base/Brainstorm.md)
       - [1.4.4 Mapa Mental](./Base/MapaMental.md)
       - [1.4.5 BPMN da Plataforma](./Base/BPMN.md)
+      - [1.6. Rich Picture](./Base/RichPicture.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
