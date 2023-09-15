@@ -13,6 +13,17 @@
 - Se for uma issue de melhoria, descreva o que você gostaria de ver no projeto;
 - Se for uma issue de tarefa, descreva o que precisa ser feito para que essa tarefa seja completa;
 
+### 1.2 Sobre as tarefas da issue
+
+&emsp;&emsp; As tarefas da issue devem ser criadas utilizando a sintaxe de listas do markdown, exemplo:
+
+```
+- [ ] Critério 1
+- [ ] Critério 2
+- [ ] Critério 3
+
+```
+
 ## 2. Sobre commits
 
 &emsp;&emsp; Os commits devem seguir uma padronização, onde deve-se utilizar a estrutura conventional, que é:
@@ -33,18 +44,11 @@ basicamente descrevendo o tipo do commit e a descrição do mesmo, mais informa�
 
 ## 4. Sobre pull requests
 
-&emsp;&emsp; Os pull requests também seguirão a estrutura conventional, a qual é descrita na seção 2: <type>[optional scope]: <description>. A descrição do pull request deve estar escrita em português, contendo quais foram as mudanças, o porquê de aceitar o pull request, e quais são os critérios que o PR deve estar seguindo em forma de checklist para que o merge seja feito. O checklist deve ser feito utilizando a sintaxe de listas do markdown, exemplo:
-
-```
-- [ ] Critério 1
-- [ ] Critério 2
-- [ ] Critério 3
-
-```
+&emsp;&emsp; Os pull requests também seguirão a estrutura conventional, a qual é descrita na seção 2: <type>[optional scope]: <description>. A descrição do pull request deve estar escrita em português, contendo quais foram as mudanças, o porquê de aceitar o pull request, e comentários adicionais sobre o Pull Request, onde o mesmo deve estar seguindo a checklist da issue no qual ele é referenciado.
 
 ## 5. Sobre revisão de código/artefato
 
-&emsp;&emsp; A revisão de código/artefato deve ser feita por pelo menos um membro do time, e deve ser feita de forma a garantir que o código está seguindo os critérios estabelecidos no checklist do pull request. Caso o elemento não esteja seguindo os critérios, o revisor deve comentar no pull request o que está errado e o que deve ser feito para que o código esteja seguindo os critérios. Caso o elemento esteja seguindo os critérios, o revisor deve aprovar o pull request e o mesmo deve ser mergeado. O revisor deve sempre ser adicionado ao histórico de versão do artefato, e deve ser referenciado no pull request.
+&emsp;&emsp; A revisão de código/artefato deve ser feita por pelo menos um membro do time, e deve ser feita de forma a garantir que o código está seguindo os critérios estabelecidos no checklist da issue do pull request. Caso o elemento não esteja seguindo os critérios, o revisor deve comentar no pull request o que está errado e o que deve ser feito para que o código esteja seguindo os critérios. Caso o elemento esteja seguindo os critérios, o revisor deve aprovar o pull request e o mesmo deve ser mergeado. O revisor deve sempre ser adicionado ao histórico de versão do artefato, e deve ser referenciado no pull request.
 
 ## 6. Histórico de Versão
 
