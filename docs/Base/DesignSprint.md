@@ -31,8 +31,8 @@
 ### 3.3. Decision
 artefatos pós-validação
 
-### 3.4. Prototype
-protótipo
+### 3.4. Prototipagem
+Utilizando como base o [BPMN da Plataforma](./Base/BPMN?id=bpmn), foram criados dois fluxos, um representando a versão atual da plataforma e outro com as melhorias propostas pelo grupo, representados nesse [Protótipo](./Base/Prototipo?id=protótipo).
 
 ### 3.5. Learn
 fase final, provavelmente não documentável até a entrega
@@ -48,3 +48,4 @@ fase final, provavelmente não documentável até a entrega
 | 13/09/2023 | 0.1    | Criação do template | Brunna Louise | Iago Matos, Clara Ribeiro |
 | 13/09/2023 | 0.2    | Adição do Unpack    | Iago Matos    | Brunna Louise, Clara Ribeiro |
 | 14/09/2023 | 0.3    | Adição do Sketch    | Brunna Louise   | -       |
+| 15/09/2023 | 0.4    | Adição do Protótipo | Guilherme Barbosa | -     |
