@@ -27,7 +27,7 @@
 
 &emsp;&emsp; O artefato de Léxicos foi desenvolvido nessa fase a fim de garantir que todos os envolvidos no projeto possam compreender o vocabulário desse sistema. O artefato de Léxicos pode ser encontrado na [página de Léxicos](./Base/Lexicos.md).
 
-&emsp;&emsp; Por fim, os artefatos de BPMN foram realizados para traçar de forma mais técnica e completa o fluxograma da plataforma Magazine Luiza. Os artefatos de BPMN podem ser encontrados na (página de documentação de BPMN)[].
+&emsp;&emsp; Por fim, os artefatos de BPMN foram realizados para traçar de forma mais técnica e completa o fluxograma da plataforma Magazine Luiza. Os artefatos de BPMN podem ser encontrados na [página de documentação de BPMN](./Base/BPMN.md).
 ### 3.3. Decision
 artefatos pós-validação
 
