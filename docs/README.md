@@ -21,28 +21,55 @@
 
 ## Sobre
 
-Contextualize, usando referências, links, e outros materiais como fontes.
+Este projeto faz parte da disciplina de Arquitetura de Software da Universidade de Brasília, ministrada pela Professora Milene Serrano. Ele tem como foco a análise da arquitetura de software do site Magazine Luiza, uma das maiores varejistas online do Brasil. O Magazine Luiza é uma plataforma de comércio eletrônico que oferece uma ampla gama de produtos, desde eletrônicos e eletrodomésticos até móveis e itens de decoração.
 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+Nossa análise se concentra especificamente no estudo do "Perfil Comprador" e na "Plataforma" do Magazine Luiza. Vamos examinar os fluxos de interação relacionados às avaliações de produtos, compreendendo como a arquitetura de software da plataforma lida com esses aspectos.
 
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
+## Screenshots Primeira Entrega: DSW(Base)
 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+**Mapa mental do funcionamento da plataforma**
+![Mapa Mental dos Fluxos](./Assets/MapaMentalFluxos.jpg)
+<em><center>Mapa Mental dos Fluxos</center></em>
 
-Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
+**Rich Pictures do funcionamento da plataforma**
 
-## <<FOCO: DSW(Padrões de Projeto)>>
+ <img src="./Assets/Rich-Magalu-01-versao2.jpg">
+ 
+ <div style="text-align: center">
+<p>Fonte: Rich picture (Versão 1.1) </p>
+</div>
 
-Esse módulo/tópico será avaliado via Prova.
-Portanto, sem necessidade de Screenshots.
+ <img src="./Assets/Rich-Magalu-02-versao2.jpg">
+ 
+ <div style="text-align: center">
+<p>Rich picture (Versão 2.1) </p>
+</div>
 
-## Screenshots Terceira Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+**BPMN do Funcionamento da plataforma**
 
-Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
+<img src="./Assets/bpmn_plataforma.png">
+<p style="text-align: center">BPMN da Plataforma - Versão atual</p>
+<br/><br/>
+
+<img src="./Assets/bpmn_melhorias_01_pre_compra.png">
+<p style="text-align: center">BPMN da Plataforma - Melhorias Pré-compra.</p>
+<br/><br/>
+
+<img src="./Assets/bpmn_melhorias_02_avaliacao.png">
+<p style="text-align: center">BPMN da Plataforma - Melhorias na Avaliação.</p>
+<br/><br/>
+
+<img src="./Assets/bpmn_melhorias_03_pos_avaliacao.png">
+<p style="text-align: center">BPMN da Plataforma - Melhorias Pós-Avaliação.</p>
+<br/><br/>
+
+<img src="./Assets/bpmn_avaliações-subproduto.png">
+<p style="text-align: center">BPMN da Plataforma - Subprocesso Avaliar produto.</p>
+<br/><br/>
 
 ## Descritivo dos Principais Aspectos Técnicos
 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
+**Principis Metodologias Adotadas**: XP, Kanban e OpenUp<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
