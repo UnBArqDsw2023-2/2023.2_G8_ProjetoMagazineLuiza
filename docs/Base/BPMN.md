@@ -25,7 +25,7 @@ Foram confeccionados 4 fluxos BPMN. O primeiro, se refere ao fluxo de avaliaçã
 
 A seguir, na Figura 1, apresentamos o diagrama BPMN elaborado a partir da observação do fluxo de avaliação de produtos na plataforma.
 
-<img src="../Assets/bpmn_plataforma.png">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/bpmn_plataforma.png">
 <p style="text-align: center">Figura 1: BPMN da Plataforma - Versão atual.</p>
 
 ## 4. BPMN do Produto - Versão com adição de melhorias elicitadas para o projeto
@@ -36,28 +36,28 @@ A seguir, apresentamos os diagramas BPMN que compreendem as sugestões de melhor
 
 A Figura 2 representa o fluxo das atividades anteriores ao envio de uma avaliação, ou seja, a visualização do produto e suas avaliações anteriores, entre outras atividades.
 
-<img src="../Assets/bpmn_melhorias_01_pre_compra.png">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/bpmn_melhorias_01_pre_compra.png">
 <p style="text-align: center">Figura 2: BPMN da Plataforma - Melhorias Pré-compra.</p>
 
 ### 4.2. BPMN da Plataforma - Melhorias na Avaliação
 
 A Figura 3 representa o fluxo referente às atividades envolvidas no processo de avaliação de um produto.
 
-<img src="../Assets/bpmn_melhorias_02_avaliacao.png">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/bpmn_melhorias_02_avaliacao.png">
 <p style="text-align: center">Figura 3: BPMN da Plataforma - Melhorias na Avaliação.</p>
 
 ### 4.3. BPMN da Plataforma - Melhorias Pós-Avaliação
 
 A Figura 4 representa o fluxo das atividades que acontecem a partir do envio de uma ou mais avaliações de produtos.
 
-<img src="../Assets/bpmn_melhorias_03_pos_avaliacao.png">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/bpmn_melhorias_03_pos_avaliacao.png">
 <p style="text-align: center">Figura 4: BPMN da Plataforma - Melhorias Pós-Avaliação.</p>
 
 ### 4.4. BPMN da Plataforma - Subprocesso Avaliar produto
 
 A Figura 5 representa o subprocesso de "Avaliar produto", que foi referenciado tanto no fluxo de Melhorias na Avaliação quanto no fluxo de Melhorias Pós-Avaliação.
 
-<img src="../Assets/bpmn_avaliações-subproduto.png">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/bpmn_avaliações-subproduto.png">
 <p style="text-align: center">Figura 5: BPMN da Plataforma - Subprocesso Avaliar produto.</p>
 
 ## 5. Referências Bibliográficas

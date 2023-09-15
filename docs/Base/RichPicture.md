@@ -21,11 +21,11 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 
 | Elemento | Figura | Descrição |
 | -------- | ------ | --------- |
-| Ator | ![Atores](../Assets/rich_picture_atores_1.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
-| Dados | ![Dados](../Assets/dadosVersao2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
-| Flechas | ![Flechas](../Assets/rich_picture_flechas_1.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
-| Operações | ![Operações](../Assets/rich_picture_operacoes_1.png) | Atividades ou ações que os atores realizam no sistema. |
-| Limites do Sistema | ![Limites do Sistema](../Assets/rich_picture_sistema_1.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
+| Ator | ![Atores](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_atores_1.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
+| Dados | ![Dados](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/dadosVersao2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
+| Flechas | ![Flechas](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_flechas_1.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
+| Operações | ![Operações](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_operacoes_1.png) | Atividades ou ações que os atores realizam no sistema. |
+| Limites do Sistema | ![Limites do Sistema](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_sistema_1.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
 
 <div style="text-align: center">
 <p>Tabela 1: Legendas dos elementos do rich picture ver 1.1 </p>
@@ -35,11 +35,11 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 
 | Elemento | Figura | Descrição |
 | -------- | ------ | --------- |
-| Ator | ![Atores](../Assets/rich_picture_atores_2.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
-| Dados | ![Dados](../Assets/rich_picture_dados_2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
-| Flechas | ![Flechas](../Assets/rich_picture_flechas_2.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
-| Operações | ![Operações](../Assets/rich_picture_operacoes_2.png) | Atividades ou ações que os atores realizam no sistema. |
-| Limites do Sistema | ![Limites do Sistema](../Assets/rich_picture_sistema_2.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
+| Ator | ![Atores](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_atores_2.png)| Pessoas, grupos ou entidades que desempenham um papel no sistema. |
+| Dados | ![Dados](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_dados_2.png) | Informações relevantes que fluem pelo sistema / objetos das operações dos atores. |
+| Flechas | ![Flechas](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_flechas_2.png) | Relações e interações entre diferentes elementos. Fluxos de informações, influências, ações ou comunicação. |
+| Operações | ![Operações](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_operacoes_2.png) | Atividades ou ações que os atores realizam no sistema. |
+| Limites do Sistema | ![Limites do Sistema](https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/rich_picture_sistema_2.png) | Fronteira do contexto do sistema, define o que está dentro e fora da análise. |
 
 <div style="text-align: center">
 <p>Tabela 1: Legendas dos elementos do rich picture versão 2.1 </p>
@@ -49,14 +49,14 @@ Os rich pictures foram elaborados por duas duplas participantes do projeto e tev
 ## 3. Rich Picture
 
 ### 3.1. Rich Picture Versão 1.1
- <img src="../Assets/Rich-Magalu-01-versao2.jpg">
+ <img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Rich-Magalu-01-versao2.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 1 - Rich picture magalu versão 1.1 </p>
 </div>
 
 ### 3.2. Rich Picture Versão 2.1
- <img src="../Assets/Rich-Magalu-02-versao2.jpg">
+ <img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Rich-Magalu-02-versao2.jpg">
  
  <div style="text-align: center">
 <p>Fonte: Imagem 2 - Rich picture magalu versão 2.1 </p>
