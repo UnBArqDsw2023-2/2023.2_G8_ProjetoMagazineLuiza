@@ -7,7 +7,7 @@
 
 | Matrícula | Aluno                            |                                                                              Github                                                                              |
 | --------- | -------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 211029156 | Brunna Louise Martins Rocha      |      <img src="https://github.com/brunna-martins.png" alt="brunna-martins" style="width: 10vw"><br/> [@Dbrunna-martins](https://github.com/brunna-martins)       |
+| 211029156 | Brunna Louise Martins Rocha      |      <img src="https://github.com/brunna-martins.png" alt="brunna-martins" style="width: 10vw"><br/> [@brunna-martins](https://github.com/brunna-martins)       |
 | 190113596 | Charles Manrique Serafim Morais  |     <img src="https://github.com/charles-serafim.png" alt="charles-serafim" style="width: 10vw"><br/> [@charles-serafim](https://github.com/charles-serafim)     |
 | 200036351 | Clara Marcelino Ribeiro de Sousa |         <img src="https://github.com/clara-ribeiro.png" alt="clara-ribeiro" style="width: 10vw"><br/> [@clara-ribeiro](https://github.com/clara-ribeiro)         |
 | 200018442 | Gabrielly Assunção Rodrigues     | <img src="https://github.com/GabriellyAssuncao.png" alt="GabriellyAssuncao" style="width: 10vw"><br/> [@GabriellyAssuncao](https://github.com/GabriellyAssuncao) |
