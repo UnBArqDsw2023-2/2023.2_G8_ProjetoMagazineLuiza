@@ -85,6 +85,9 @@ Pontos relevantes durante a validação:
 - Os feedbacks de William foram, em sua maioria, positivos em relação às melhorias propostas no fluxo de avaliação do Magazine Luiza
 - Ele elogiou a simplicidade e eficácia das mudanças, destacando a utilidade da adição de fotos nas avaliações, a opção de denunciar avaliações ofensivas, a possibilidade de fazer perguntas em avaliações e o sistema de recompensas para incentivar os usuários a fazerem avaliações. Ele considerou que essas melhorias tornariam a experiência do usuário mais funcional e agradável.
 
+### 4.6 Conclusão
+
+&emsp;&emsp; Após a realização das entrevistas, foi possível validar o protótipo e entender que as melhorias que estamos propondo são coerentes com o que os usuários esperam de uma plataforma de e-commerce. Além disso, foi possível identificar algumas questões que serão consideradas ao longo do projeto, como por exemplo o critério de que o sistema de recompensas só funcionaria caso o filtro de relevância esteja funcionando corretamente.
 ## 5. Referências
 
 > NIELSEN, J. Why You Only Need to Test with 5 Users. Disponível em: <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/>.‌ Acesso em 15 de setembro de 2023.
