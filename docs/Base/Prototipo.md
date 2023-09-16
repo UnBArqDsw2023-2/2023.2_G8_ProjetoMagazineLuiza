@@ -35,14 +35,23 @@ Comentários sobre as melhorias:
 
 ### 4.2 Entrevista 2
 
-A segunda entrevista foi realizada pelo membro Charles e pode ser acessada através deste link: [Entrevista 2](https://www.youtube.com/watch?v=_CcKDnDRt_s&ab_channel=CharlesManriqueSerafimMorais). Resumidamente, foi com um homem de 26 anos chamado Daniel Jeferson que é estudante, possui conhecimentos medianos sobre tecnologia, e tem costume de fazer compras, geralmente as faz sozinho, mas às vezes pede ajuda. Costuma procurar pelas avaliações e pelo preço. Considera ruim que nem sempre as plataformas disponibilizam comentários.
+&emsp;&emsp; A segunda entrevista foi realizada pela membra Clara e pode ser acessada através deste link: [Entrevista 2](https://drive.google.com/file/d/1V7q4uQgk0zZX7gksu_lYp-xq61Qx75D6/view?usp=sharing). Resumidamente, foi com um homem de 52 anos chamado William Jesus de Sousa e é técnico industrial. Relatou que utiliza bastante e-commerce, pois atualmente ele só compra em lojas online:
 
-Comentários sobre as melhorias:
-- O entrevistado achou todas as features muito boas e que agregariam valor. Fez a sugestão de que na feature “Denunciar”, em vez de ser uma caixa de texto, fosse um menu com categorias de denúnica a serem selecionadas, como acontece em outras plataformas.
+Pontos relevantes durante a validação:
+- Ao fazer compras online, ele presta atenção principalmente às avaliações de produtos feitas por outros compradores.
+- Ele acredita que as avaliações escritas são mais úteis do que simples classificações com estrelas, pois fornecem detalhes sobre o produto.
+- O entrevistado vê com bons olhos a adição de fotos nas avaliações, pois isso ajudaria a identificar problemas específicos com o produto.
+- Ele concorda com a opção de denunciar avaliações ofensivas ou irrelevantes e acredita que é útil ter um filtro desse tipo.
+- O entrevistado considera útil a opção de adicionar perguntas ou comentários a avaliações de outros usuários para obter informações adicionais.
+- Ele aprova a ideia de um sistema de recompensas para incentivar os usuários a fazerem avaliações, desde que haja um filtro para garantir a relevância das avaliações.
+- O entrevistado vê como uma boa ideia a opção de edição e reavaliação de comentários após um período de uso do produto.
+- Ele acha importante a opção de excluir comentários, caso o usuário deseje fazê-lo.
+- Os feedbacks de William foram, em sua maioria, positivos em relação às melhorias propostas no fluxo de avaliação do Magazine Luiza
+- Ele elogiou a simplicidade e eficácia das mudanças, destacando a utilidade da adição de fotos nas avaliações, a opção de denunciar avaliações ofensivas, a possibilidade de fazer perguntas em avaliações e o sistema de recompensas para incentivar os usuários a fazerem avaliações. Ele considerou que essas melhorias tornariam a experiência do usuário mais funcional e agradável.
 
 ### 4.3 Entrevista 3
 
-&emsp;&emsp; À partir de agora as entrevistas foram realizadas pela membra Clara. A terceira entrevista pode ser acessada através deste link: [Entrevista 3](https://drive.google.com/file/d/1V2WBzkxU_AD5Izm4iJRbpZFwdIyGv0xV/view?usp=sharing). Resumidamente, foi com uma mulher de 22 anos chamada Giselle Santos Almeida e é estudante de design e estagiária na mesma área. Relatou que utiliza frequentemente sites de venda de produtos.
+&emsp;&emsp; A terceira entrevista foi realizada pela membra Clara e pode ser acessada através deste link: [Entrevista 3](https://drive.google.com/file/d/1V2WBzkxU_AD5Izm4iJRbpZFwdIyGv0xV/view?usp=sharing). Resumidamente, foi com uma mulher de 22 anos chamada Giselle Santos Almeida e é estudante de design e estagiária na mesma área. Relatou que utiliza frequentemente sites de venda de produtos.
 
 Pontos relevantes durante a validação:
 
@@ -56,7 +65,7 @@ Pontos relevantes durante a validação:
 
 ### 4.4 Entrevista 4
 
-&emsp;&emsp; A quarta entrevista pode ser acessada através deste link: [Entrevista 4](https://drive.google.com/file/d/1V9ZoLagDfw0f-ok3V30BCnEfjmP45xr9/view?usp=sharing). Resumidamente, foi com uma mulher de 17 anos chamada Alice Marcelino Ribeiro e é estudante. Relatou que fazer compras online faz parte de seu dia a dia.
+&emsp;&emsp; A quarta entrevista foi realizada pela membra Clara e pode ser acessada através deste link: [Entrevista 4](https://drive.google.com/file/d/1V9ZoLagDfw0f-ok3V30BCnEfjmP45xr9/view?usp=sharing). Resumidamente, foi com uma mulher de 17 anos chamada Alice Marcelino Ribeiro e é estudante. Relatou que fazer compras online faz parte de seu dia a dia.
 
 Pontos relevantes durante a validação:
 - Alice acha importante poder ver avaliações e comentários de outros usuários ao fazer compras online. Ela valoriza avaliações detalhadas, fotos e comentários úteis para tomar decisões de compra informadas.
@@ -71,19 +80,10 @@ Pontos relevantes durante a validação:
 
 ### 4.5 Entrevista 5
 
-&emsp;&emsp; A quinta entrevista pode ser acessada através deste link: [Entrevista 5](https://drive.google.com/file/d/1V7q4uQgk0zZX7gksu_lYp-xq61Qx75D6/view?usp=sharing). Resumidamente, foi com um homem de 52 anos chamado William Jesus de Sousa e é técnico industrial. Relatou que utiliza bastante e-commerce, pois atualmente ele só compra em lojas online:
+A quinta entrevista foi realizada pelo membro Charles e pode ser acessada através deste link: [Entrevista 5](https://www.youtube.com/watch?v=_CcKDnDRt_s&ab_channel=CharlesManriqueSerafimMorais). Resumidamente, foi com um homem de 26 anos chamado Daniel Jeferson que é estudante, possui conhecimentos medianos sobre tecnologia, e tem costume de fazer compras, geralmente as faz sozinho, mas às vezes pede ajuda. Costuma procurar pelas avaliações e pelo preço. Considera ruim que nem sempre as plataformas disponibilizam comentários.
 
-Pontos relevantes durante a validação:
-- Ao fazer compras online, ele presta atenção principalmente às avaliações de produtos feitas por outros compradores.
-- Ele acredita que as avaliações escritas são mais úteis do que simples classificações com estrelas, pois fornecem detalhes sobre o produto.
-- O entrevistado vê com bons olhos a adição de fotos nas avaliações, pois isso ajudaria a identificar problemas específicos com o produto.
-- Ele concorda com a opção de denunciar avaliações ofensivas ou irrelevantes e acredita que é útil ter um filtro desse tipo.
-- O entrevistado considera útil a opção de adicionar perguntas ou comentários a avaliações de outros usuários para obter informações adicionais.
-- Ele aprova a ideia de um sistema de recompensas para incentivar os usuários a fazerem avaliações, desde que haja um filtro para garantir a relevância das avaliações.
-- O entrevistado vê como uma boa ideia a opção de edição e reavaliação de comentários após um período de uso do produto.
-- Ele acha importante a opção de excluir comentários, caso o usuário deseje fazê-lo.
-- Os feedbacks de William foram, em sua maioria, positivos em relação às melhorias propostas no fluxo de avaliação do Magazine Luiza
-- Ele elogiou a simplicidade e eficácia das mudanças, destacando a utilidade da adição de fotos nas avaliações, a opção de denunciar avaliações ofensivas, a possibilidade de fazer perguntas em avaliações e o sistema de recompensas para incentivar os usuários a fazerem avaliações. Ele considerou que essas melhorias tornariam a experiência do usuário mais funcional e agradável.
+Comentários sobre as melhorias:
+- O entrevistado achou todas as features muito boas e que agregariam valor. Fez a sugestão de que na feature “Denunciar”, em vez de ser uma caixa de texto, fosse um menu com categorias de denúnica a serem selecionadas, como acontece em outras plataformas.
 
 ### 4.6 Conclusão
 
