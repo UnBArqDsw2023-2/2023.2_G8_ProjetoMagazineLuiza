@@ -30,10 +30,10 @@
 &emsp;&emsp; A parte de decisão englobava a validação da versão final do Rich Picture e do BPMN encontrados na fase anterior. Além disso, desenvolvemos o [Glossário](./Base/Glossario.md) e os [Léxicos](./Base/Lexicos.md) para garantir que todos os envolvidos no projeto possam compreender o vocabulário desse sistema.
 
 ### 3.4. Prototipagem
-Utilizando como base o [BPMN da Plataforma](./Base/BPMN?id=bpmn), foram criados dois fluxos, um representando a versão atual da plataforma e outro com as melhorias propostas pelo grupo, representados nesse [Protótipo](./Base/Prototipo?id=protótipo).
+&emsp;&emsp; Utilizando como base o [BPMN da Plataforma](./Base/BPMN?id=bpmn), foram criados dois fluxos, um representando a versão atual da plataforma e outro com as melhorias propostas pelo grupo, representados nesse [Protótipo](./Base/Prototipo?id=protótipo).
 
 ### 3.5. Learn
-fase final, provavelmente não documentável até a entrega
+&emsp;&emsp; Na parte de aprendizado, foram feitas entrevistas de acordo com a solicitação da professora para validar os fluxos prototipados e apresentados para os usuários finais. Essas entrevistas podem ser encontradas na [página de Protótipo](./Base/Prototipo?id=protótipo).
 
 ## 4. Referências
 
