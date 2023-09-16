@@ -21,15 +21,13 @@
 &emsp;&emsp; A partir do conhecimento do fluxo, das dores que queríamos alcançar e das melhorias que entendemos que seriam boas para o projeto, fizemos um mapa mental do diferentes partes do fluxo abordando desde características já existentes no projeto, até melhorias que ainda não foram implementadas e que pretendemos implementar. As fotos e documentação sobre o mapa mental podem ser encontradas na [página de mapa mental do projeto](./Base/MapaMental.md).
 
 ### 3.2. Sketch
-&emsp;&emsp; Na fase de desenho de nossa solução, foram produzidos os artefatos de Rich Picture, léxicos e fluxogramas BPMN da plataforma Magazine Luiza. 
+&emsp;&emsp; Na fase de desenho de nossa solução, foram produzidos os artefatos de Rich Picture, léxicos e fluxogramas BPMN da plataforma Magazine Luiza.
 
-&emsp;&emsp; Os artefatos de Rich Picture foram de extrema importância para compreensão do fluxo da plataforma de modo não técnico e visual. Esses artefatos podem ser encontrados na [página de documentação de Rich Picture](./Base/RichPicture.md).
+&emsp;&emsp; Os artefatos de Rich Picture foram de extrema importância para compreensão do fluxo da plataforma de modo não técnico e visual. Nesta fase, fizemos a versão inicial do mesmo, a qual seria validada na fase de decisão. Esses artefatos podem ser encontrados na [página de documentação de Rich Picture](./Base/RichPicture.md).
 
-&emsp;&emsp; O artefato de Léxicos foi desenvolvido nessa fase a fim de garantir que todos os envolvidos no projeto possam compreender o vocabulário desse sistema. O artefato de Léxicos pode ser encontrado na [página de Léxicos](./Base/Lexicos.md).
-
-&emsp;&emsp; Por fim, os artefatos de BPMN foram realizados para traçar de forma mais técnica e completa o fluxograma da plataforma Magazine Luiza. Os artefatos de BPMN podem ser encontrados na [página de documentação de BPMN](./Base/BPMN.md).
+&emsp;&emsp; Por fim, os artefatos de BPMN foram realizados para traçar de forma mais técnica e completa o fluxograma da plataforma Magazine Luiza. Nesta fase, fizemos também uma versão inicial do BPMN dos fluxos, para ter a versão final validada pela equipe na fase de decisão. Os artefatos de BPMN podem ser encontrados na [página de documentação de BPMN](./Base/BPMN.md).
 ### 3.3. Decision
-artefatos pós-validação
+&emsp;&emsp; A parte de decisão englobava a validação da versão final do Rich Picture e do BPMN encontrados na fase anterior. Além disso, desenvolvemos o [Glossário](./Base/Glossario.md) e os [Léxicos](./Base/Lexicos.md) para garantir que todos os envolvidos no projeto possam compreender o vocabulário desse sistema.
 
 ### 3.4. Prototype
 protótipo
@@ -43,8 +41,8 @@ fase final, provavelmente não documentável até a entrega
 
 ## 5. Histórico de Versões
 
-| Data       | Versão | Modificação         | Autor         | Revisor |
-|------------|--------|---------------------|---------------|---------|
-| 13/09/2023 | 0.1    | Criação do template | Brunna Louise | Iago Matos, Clara Ribeiro |
+| Data       | Versão | Modificação         | Autor         | Revisor                      |
+|------------|--------|---------------------|---------------|------------------------------|
+| 13/09/2023 | 0.1    | Criação do template | Brunna Louise | Iago Matos, Clara Ribeiro    |
 | 13/09/2023 | 0.2    | Adição do Unpack    | Iago Matos    | Brunna Louise, Clara Ribeiro |
-| 14/09/2023 | 0.3    | Adição do Sketch    | Brunna Louise   | -       |
+| 14/09/2023 | 0.3    | Adição do Sketch    | Brunna Louise | -                            |
