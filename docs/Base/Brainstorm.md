@@ -8,17 +8,17 @@
 
 &emsp;&emsp; O brainstorming foi feito no Miro, objetivando trazer dores e soluções sobre o fluxo de avaliação do Magazine Luiza. As fotos do brainstorming podem ser vistas abaixo:
 
-![Início do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(2).jpg)
+![Início do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(2).png") 
 
 <em><center> Início do Brainstorm
 Autor: Todos
 
-![Continuação e Refinamento do Brainstorm](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(1).jpg)
+![Continuação e Refinamento do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(1).png") 
 
 Continuação e Refinamento do Brainstorm
 Autor: Iago, Natan e Maurício
 
-![Priorização de Atividades](../assets/Brainstorm%20Funcoes%20e%20Melhorias%20(3).jpg)
+![Priorização de Atividades]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(3).png") 
 
 Priorização de Atividades
 Autor: Iago, Natan e Maurício</center></em>
@@ -29,4 +29,5 @@ Nesse brainstorm, todos os participantes deram suas ideias, e em uma reunião à
 
 | Data       | Versão | Modificação         | Autor         | Revisor |
 |------------|--------|---------------------|---------------|---------|
-| 13/09/2023 | 0.1    | Criação da página   | Iago Matos    | -       |
+| 13/09/2023 | 1.1    | Criação da página   | Iago Matos    | [Thiago Cerqueira](https://github.com/Thiago-Cerq)   |
+| 13/09/2023 | 1.2    | Concertando imagens  | [Thiago Cerqueira](https://github.com/Thiago-Cerq)   |  Iago Matos  |
