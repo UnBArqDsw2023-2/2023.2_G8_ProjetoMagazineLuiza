@@ -8,7 +8,7 @@
 
 &emsp;&emsp; Abaixo consta o mapa mental elaborado pela equipe utilizando como base de ideias o [Brainstorm](./Base/Brainstorm.md).
 
-![Mapa Mental dos Fluxos](../assets/MapaMentalFluxos.jpg)
+![Mapa Mental dos Fluxos](../Assets/MapaMentalFluxos.jpg)
 
 <em><center>Mapa Mental dos Fluxos
 Autores: Iago e Brunna</center></em>
