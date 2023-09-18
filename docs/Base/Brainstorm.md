@@ -8,17 +8,17 @@
 
 &emsp;&emsp; O brainstorming foi feito no Miro, objetivando trazer dores e soluções sobre o fluxo de avaliação do Magazine Luiza. As fotos do brainstorming podem ser vistas abaixo:
 
-![Início do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(2).png") 
+![Início do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(2).jpg")
 
 <em><center> Início do Brainstorm
 Autor: Todos
 
-![Continuação e Refinamento do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(1).png") 
+![Continuação e Refinamento do Brainstorm]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(1).jpg")
 
 Continuação e Refinamento do Brainstorm
 Autor: Iago, Natan e Maurício
 
-![Priorização de Atividades]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(3).png") 
+![Priorização de Atividades]("https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/BrainstormFuncoeseMelhorias(3).jpg")
 
 Priorização de Atividades
 Autor: Iago, Natan e Maurício</center></em>
