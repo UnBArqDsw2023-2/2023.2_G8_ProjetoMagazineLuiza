@@ -6,10 +6,10 @@ Template de Documentação
 
 ## 1. Histórico de Versões
 
-| Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                 |
-| :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------: |
-| 25/09/2023 | 1.0    | Criação do template de documentação                         | [Charles Serafim](https://github.com/charles-serafim) | [Iago Campelo](https://github.com/iagoscm) |
-| XX/XX/2023 | X.X    | Breve descrição do que há de novo nesta versão do documento | [Nome](link do github do/a autor/a)                   | [Nome](link do github do/a revisor/a)      |
+| Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
+| :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
+| 25/09/2023 | 1.0    | Criação do template de documentação                         | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| XX/XX/2023 | X.X    | Breve descrição do que há de novo nesta versão do documento | [Nome](link do github do/a autor/a)                   | [Nome](link do github do/a revisor/a)              |
 
 
 ## 2. Introdução
