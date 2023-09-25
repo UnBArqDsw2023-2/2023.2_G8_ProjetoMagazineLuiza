@@ -140,7 +140,7 @@ Figura 1: imagem com HTML. Autor: Charles Serafim.
 Os links externos podem ser utilizados de duas formas. A primeira é com Markdown e a segunda com HTML. É preferível utilizar a tag HTML para que ela possa ser encaixada dentro de parágrafos com formatação HTML, e nestes casos o link com Markdown não funciona.
 </p>
 
-Links com Markdown: `[Texto do link](URL referente ao link)</code>`. Exemplo: [Site do Magazine Luiza](https://www.magazineluiza.com.br/).
+Links com Markdown: `[Texto do link](URL referente ao link)`. Exemplo: [Site do Magazine Luiza](https://www.magazineluiza.com.br/).
 
 <p align='justify'>
 Links com HTML: <code>&lta href="URL referente ao link"&gtTexto do link&lt/a&gt</code>. Exemplo: <a href="https://www.magazineluiza.com.br/">Site do Magazine Luiza</a>.
