@@ -26,16 +26,9 @@ No presente documento, apresentamos os Diagramas de Casos de Uso modelados a res
 ## 3. Detalhamento Metodológico
 
 <p align="justify">
-Nesta seção, deve ser explicada a metodologia utilizada para a confecção do(s) artefato(s) contido(s) no documento. Exemplo:
-<p>
+A confecção do Diagrama de Casos de Uso foi realizada utilizando a ferramenta <a href="https://www.lucidchart.com/pages/pt">Lucid Chart</a> e foram destacados os membros Laís Ramos, Charles Serafim e Lucas Rodrigues. Esses serão os mesmo que farão o artefato referente ao Diagrama de Implantação. A  disposição em questão seguiu as recomendações dadas em sala de aula. Vale destacar que para a confecção do diagrama, o trio se baseou na documentação e padronização prevista pela Linguagem de Modelagem Unificada (UML) e na documentação diponibilizada pela professora.
 
-<p align="justify">
-Foram destacados dois membros da equipe para a confecção do template. Foi estabelecido que o mesmo deve ter como base os documentos disponibilizados pela professora e padrões de documentação utilizados em outras wikis.
-</p>
 
-<p align="justify">
-O documento foi confeccionado pela dupla destacada, tendo sido realizadas pesquisas de documentos e wikis de referências, assim como elementos e linguagens de marcação a serem utilizados, como elementos em HTML e Markdown.
-</p>
 
 
 ## 4. Artefato
