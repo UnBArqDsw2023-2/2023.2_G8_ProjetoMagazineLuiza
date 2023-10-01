@@ -3,12 +3,13 @@
 
 ## 1. Histórico de Versões
 
-| Data       | Versão | Descrição                         | Autor(a)                                                                                               | Revisor(a)                                      |
-| :--------: | :----: | :-------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| 27/09/2023 | 1.0    | Criação do documento, introdução  | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)   |
-| 28/09/2023 | 1.1    | Adição da Metodologia             | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard) |
-| 28/09/2023 | 1.2    | Adição dos Casos de Uso           | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)   |
-| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD | [Lucas Rodrigues](https://github.com/lucascard)                                                        | - |
+| Data       | Versão | Descrição                                    | Autor(a)                                                                                               | Revisor(a)                                            |
+| :--------: | :----: | :------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
+| 27/09/2023 | 1.0    | Criação do documento, introdução             | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.1    | Adição da Metodologia                        | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 28/09/2023 | 1.2    | Adição dos Casos de Uso                      | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD            | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
+| 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
 
 
 ## 2. Introdução
@@ -226,11 +227,17 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
     </tr>
 </table>
 
-
 <p align='center'>
 Tabela 1: Lista de Casos de Uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
 </p>
 
+
+### 4.2. Diagrama de Casos de Uso
+
+A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
+<p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
 
 ## 5. Conclusão
 
