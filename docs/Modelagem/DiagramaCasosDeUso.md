@@ -78,22 +78,42 @@ São utilizados para representar, por meio de setas legendadas, as interações 
 
 
 <p align="justify">
-<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Inclusão:</b></a> Tipo de relacionamento que proporciona um caso de uso (o caso de uso base) incluir a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão permite a reutilização da funcionalidade em um modelo de caso de uso.
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Associação: </b></a>Relacionamento entre ator e caso de uso. Ajuda a compreender quais são as ações que podem ser realizadas por aquele determinado ator.
+</p>
+  
+* Notação no diagrama:
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/associacao.jpg" width="200"></div>
+<p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de associação.</p>
+
+
+<p align="justify">
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Inclusão: </b></a>Tipo de relacionamento que proporciona um caso de uso (o caso de uso base) incluir a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão permite a reutilização da funcionalidade em um modelo de caso de uso.
 </p>
   
 * Notação no diagrama: <<*includes*>>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg"></div>
-<p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de inclusão.</p>
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg" width="200"></div>
+<p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de inclusão.</p>
 
 
 <p align="justify">
-<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Extensão:</b></a> São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case" width="200"><b>Extensão: </b></a>São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
 </p>
 
 * Notação no diagrama: <<*extends*>>
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/extends.jpg"></div>
-<p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de extensão.</p>
+<p style="text-align: center">Figura 6: Representação gráfica utilizada para o relacionamento de extensão.</p>
+
+
+<p align="justify">
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Generalização: </b></a>Este relacionamento indica uma relação de generalização/especialização. A seta parte do objeto específico para o geral, ou seja, do objeto que possui as mesmas características que o geral, porém possui características específicas particulares. Pode ser utilizado para relacionar casos de uso entre si e também para relacionar tipos de atores.
+</p>
+  
+* Notação no diagrama:
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/generalizacao.jpg" width="200"></div>
+<p style="text-align: center">Figura 7: Representação gráfica utilizada para o relacionamento de generalização.</p>
 
 
 ### 3.2. BDD - Behavior Driven Development
