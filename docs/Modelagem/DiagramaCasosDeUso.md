@@ -3,13 +3,14 @@
 
 ## 1. Histórico de Versões
 
-| Data       | Versão | Descrição                                    | Autor(a)                                                                                               | Revisor(a)                                            |
-| :--------: | :----: | :------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
-| 27/09/2023 | 1.0    | Criação do documento, introdução             | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
-| 28/09/2023 | 1.1    | Adição da Metodologia                        | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard)       |
-| 28/09/2023 | 1.2    | Adição dos Casos de Uso                      | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)         |
-| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD            | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
-| 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
+| Data       | Versão | Descrição                                         | Autor(a)                                                                                               | Revisor(a)                                            |
+| :--------: | :----: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
+| 27/09/2023 | 1.0    | Criação do documento, introdução                  | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.1    | Adição da Metodologia                             | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 28/09/2023 | 1.2    | Adição dos Casos de Uso                           | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD                 | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
+| 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
 
 
 ## 2. Introdução
@@ -134,7 +135,9 @@ No contexto de modelagem de casos de uso, o BDD é usado para especificar detalh
 Nas próximas seções, apresentamos a lista de casos de uso, os diagramas referentes aos mesmos e as suas respectivas especificações.
 </p>
 
-### 4.1. Identificação dos Casos de Uso
+### 4.1. Especificação dos Casos de Uso
+
+#### 4.1.1. Identificação dos Casos de Uso
 
 <p align="justify">
 Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
@@ -197,30 +200,36 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
     </tr>
     <tr>
         <td>UC-09</td>
+        <td>Ordenar avaliações</td>
+        <td>Permite que os usuários ordenem as avaliações com base em determinados critérios.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>UC-10</td>
         <td>Ordenar avaliações por relevância</td>
         <td>Permite que os usuários ordenem as avaliações com base em critérios de relevância.</td>
         <td></td>
     </tr>
     <tr>
-        <td>UC-10</td>
+        <td>UC-11</td>
         <td>Ordenar avaliações por data</td>
         <td>Permite que os usuários ordenem as avaliações com base na data de publicação.</td>
         <td></td>
     </tr>
     <tr>
-        <td>UC-11</td>
+        <td>UC-12</td>
         <td>Ordenar por positividade</td>
         <td>Permite que os usuários ordenem as avaliações com base na positividade.</td>
         <td></td>
     </tr>
     <tr>
-        <td>UC-12</td>
+        <td>UC-13</td>
         <td>Acumular pontos por avaliações</td>
         <td>Recompensa os usuários por escreverem avaliações úteis.</td>
         <td></td>
     </tr>
     <tr>
-        <td>UC-13</td>
+        <td>UC-14</td>
         <td>Trocar pontos por recompensas</td>
         <td>Permite que os usuários troquem pontos por benefícios ou recompensas.</td>
         <td></td>
@@ -231,6 +240,63 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
 Tabela 1: Lista de Casos de Uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
 </p>
 
+#### 4.1.2. Identificação das dependências
+
+<p align="justify">
+Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os casos de uso diversos.
+</p>
+
+<table align="center">
+    <tr>
+        <th>Casos de Uso</th>
+        <th>Relacionamento</th>
+    </tr>
+    <tr>
+        <td>UC-01 X UC-03</td>
+        <td>Inclusão</td>
+    </tr>
+    <tr>
+        <td>UC-01 X UC-04</td>
+        <td>Inclusão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-05</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-06</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-07</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-08</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-10</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-11</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-12</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-13 X UC-14</td>
+        <td>Inclusão</td>
+    </tr>
+</table>
+
+<p align='center'>
+Tabela 2: Identificação das dependências entre casos de uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
+</p>
+
 
 ### 4.2. Diagrama de Casos de Uso
 
@@ -238,6 +304,15 @@ A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estã
 
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
 <p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
+
+
+### 4.3. Fluxos de eventos
+
+A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
+<p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
+
 
 ## 5. Conclusão
 
