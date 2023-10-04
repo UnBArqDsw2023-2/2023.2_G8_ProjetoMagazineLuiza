@@ -11,6 +11,7 @@
 | 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD                 | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
 | 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
 | 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
+| 03/10/2023 | 1.6    | Adição do fluxo de eventos do UC-01               | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
 
 
 ## 2. Introdução
@@ -135,9 +136,7 @@ No contexto de modelagem de casos de uso, o BDD é usado para especificar detalh
 Nas próximas seções, apresentamos a lista de casos de uso, os diagramas referentes aos mesmos e as suas respectivas especificações.
 </p>
 
-### 4.1. Especificação dos Casos de Uso
-
-#### 4.1.1. Identificação dos Casos de Uso
+### 4.1. Identificação dos Casos de Uso
 
 <p align="justify">
 Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
@@ -240,7 +239,8 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
 Tabela 1: Lista de Casos de Uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
 </p>
 
-#### 4.1.2. Identificação das dependências
+
+### 4.2. Identificação das dependências
 
 <p align="justify">
 Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os casos de uso diversos.
@@ -298,15 +298,59 @@ Tabela 2: Identificação das dependências entre casos de uso. Autores: Charles
 </p>
 
 
-### 4.2. Diagrama de Casos de Uso
+### 4.3. Fluxos de Eventos
 
-A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
+<h3>UC-01: Escrever avaliação</h3>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
-<p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
+* Atores: Comprador
+* Pré-Condições: O ator deve estar logado no sistema.
+* Pós-Condições: O ator verá a sua avaliação publicada após decorrido o tempo de análise da mesma.
+
+<h4>Fluxo Principal: Avaliação publicada através da página do produto</h4>
+
+1. O caso de uso se inicia quando o ator já logado acessa a página de um produto.
+2. O ator acessa a página de avaliação do produto.
+3. O ator preenche o formulário de avaliação com as informações correspondentes aos campos do formulário.
+4. O ator envia a avaliação.
+5. O sistema realiza a análise da avaliação.
+6. O sistema aprova a avaliação.
+7. O sistema exibe a avaliação na página do produto.
+8. O caso de uso se encerra.
+
+<h4>Fluxo Alternativo: Avaliação publicada através da página do cliente, com adição de imagens do produto</h4>
+
+1. O caso de uso se inicia quando o ator já logado acessa a sua página de pedidos.
+2. O ator seleciona em um pedido finalizado a opção de avaliar produto.
+3. O ator acessa a página de avaliação do produto.
+4. O ator preenche o formulário de avaliação com as informações correspondentes aos campos do formulário.
+5. O ator adiciona imagens do produto que adquiriu
+6. O ator envia a avaliação.
+7. O sistema realiza a análise da avaliação.
+8. O sistema aprova a avaliação.
+9. O sistema exibe a avaliação na página do produto.
+10. O caso de uso se encerra.
+
+<h4>Fluxo de Exceção 1: Produto não adquirido</h4>
+
+ - No passo 2, se o ator não tiver adquirido anteriormente o produto que pretende avaliar:
+1. O sistema exibe uma notificação ao ator informando que só é possível avaliar produtos já adquiridos.
+2. O fluxo retorna para o passo 8 do fluxo base.
+
+<h4>Fluxo de Exceção 2: Produto já avaliado</h4>
+
+ - No passo 2, se o ator já tiver publicado uma avaliação do mesmo produto anteriormente:
+1. O sistema exibe uma notificação ao ator informando que só é possível enviar uma avaliação por produto.
+2. O fluxo retorna para o passo 8 do fluxo base.
+
+<h4>Fluxo de Exceção 3: Avaliação não aprovada</h4>
+
+ - No passo 6, se a avaliação não tiver sido aprovada:
+1. O sistema envia notificação ao ator informando que a avaliação não foi aprovada.
+2. O sistema não realiza a publicação da avaliação na página do produto.
+3. O fluxo retorna para o passo 1 do fluxo base.
 
 
-### 4.3. Fluxos de eventos
+### 4.4. Diagrama de Casos de Uso
 
 A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
 
