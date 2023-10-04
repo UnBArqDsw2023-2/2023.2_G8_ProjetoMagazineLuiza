@@ -4,15 +4,7 @@ Template de Documentação
 # Título do Artefato
 
 
-## 1. Histórico de Versões
-
-| Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
-| :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
-| 25/09/2023 | 1.0    | Criação do template de documentação                         | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
-| XX/XX/2023 | X.X    | Breve descrição do que há de novo nesta versão do documento | [Nome](link do github do/a autor/a)                   | [Nome](link do github do/a revisor/a)              |
-
-
-## 2. Introdução
+## 1. Introdução
 
 <p align="justify">
 A introdução é o espaço para descrever brevemente o conteúdo do documento e informações gerais sobre ele. Todos os nossos documentos devem conter uma introdução. Exemplo:
@@ -27,7 +19,7 @@ Tal iniciativa deu-se a partir da discussão da importância de manter um padrã
 <p>
 
 
-## 3. Detalhamento Metodológico
+## 2. Detalhamento Metodológico
 
 <p align="justify">
 Nesta seção, deve ser explicada a metodologia utilizada para a confecção do(s) artefato(s) contido(s) no documento. Exemplo:
@@ -42,13 +34,13 @@ O documento foi confeccionado pela dupla destacada, tendo sido realizadas pesqui
 </p>
 
 
-## 4. Artefato
+## 3. Artefato (Nome do artefato)
 
 <p align="justify">
 Nesse espaço, deve-se apresentar o artefato em si, dividindo o conteúdo do mesmo em subseções, quando necessário.
 <p>
 
-### 4.1. Tabelas
+### 3.1. Tabelas
 
 <p align="justify">
 Todas as tabelas existentes no texto devem ser identificadas com legenda e devemos informar a fonte de onde foram retiradas ou o(s) autor(es), mesmo que sejam de autoria própria, na parte inferior. Deve-se atentar ao correto uso das tags e legendas padronizadas para as mesmas. Além disso, as tabelas e figuras devem ser numeradas consecutivamente e devem ter conexão com o texto, que deve "chamar" o elemento, utilizando-o para exemplificar, explicar ou complementar algo no contexto do texto. Exemplo:
@@ -116,7 +108,7 @@ Tabela 1: Elementos do template. Autor: Charles Serafim.
 </p>
 ```
 
-### 4.2. Figuras
+### 3.2. Figuras
 
 <p align="justify">
 Assim como as tabelas, as figuras devem conter legenda, fonte/autor(es) e serem chamadas no texto. Um outro fator importante é utilizar a URL referente à imagem armazenada no repositório online ou outra fonte. Não deve-se utilizar o caminho relativo da imagem em relação ao documento, pois assim evita-se a ocorrência de imagens "quebradas" na wiki. Exemplo:
@@ -134,7 +126,7 @@ Figura 1: imagem com HTML. Autor: Charles Serafim.
 </p>
 
 
-### 4.3. Links
+### 3.3. Links
 
 <p align='justify'>
 Os links externos podem ser utilizados de duas formas. A primeira é com Markdown e a segunda com HTML. É preferível utilizar a tag HTML para que ela possa ser encaixada dentro de parágrafos com formatação HTML, e nestes casos o link com Markdown não funciona.
@@ -147,7 +139,7 @@ Links com HTML: <code>&lta href="URL referente ao link"&gtTexto do link&lt/a&gt<
 </p>
 
 
-### 4.4. Referências
+### 3.4. Referências
 
 <p align='justify'>
 As referências bibliográficas devem estar contidas em todos os documentos. Aconselha-se consultar este <a href="https://ead.urcamp.edu.br/blog/dicas-tcc-referencia-abnt">artigo</a> a respeito de referências bibliográficas ou ainda utilizar formatadores de referências como o do site <a href="https://referenciabibliografica.net/a/pt-br/ref/abnt">referenciabibliografica.net</a>. Exemplo de formatação no documento:
@@ -160,14 +152,14 @@ As referências bibliográficas devem estar contidas em todos os documentos. Aco
 ```
 
 
-## 5. Conclusão
+## 4. Conclusão
 
 <p align='justify'>
 O documento apresenta exemplos de utilização de diversos elementos, e a estrutura do documento em si é um exemplo de aplicação do padrão desejado para os documentos. Deve-se seguir o aqui exposto para op exercício de boas pŕaticas de documentação.
 </p>
 
 
-## 6. Referências
+## 5. Referências
 
 > ABNT | Referências Bibliográficas. [S. l.], [entre 2015 e 2022]. Disponível em: <https://referenciabibliografica.net/a/pt-br/ref/abnt>. Acesso em: 25 set. 2023.
 
@@ -176,3 +168,11 @@ O documento apresenta exemplos de utilização de diversos elementos, e a estrut
 > SERRANO, Milene. Diretrizes Organização dos Projetos. Disponível em: <https://aprender3.unb.br/course/view.php?id=19535>. Acesso em: 25 set. de 2023.
 
 > MORAIS, Charles S. Template de Documentação. Wiki Requisitos de Software - 2023 - Venci na Promo. Disponível em: <https://github.com/mdsreq-fga-unb/2023.1-VenciNaPromo/blob/main/ghpages/docs/politicas/padraoDocumentacao.md>. Acesso em: 25 set. de 2023.
+
+
+## 6. Histórico de Versões
+
+| Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
+| :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
+| 25/09/2023 | 1.0    | Criação do template de documentação                         | [Charles Serafim](https://github.com/charles-serafim) | [Thiago Cerqueira](https://github.com/Thiago-Cerq) |
+| XX/XX/2023 | X.X    | Breve descrição do que há de novo nesta versão do documento | [Nome](link do github do/a autor/a)                   | [Nome](link do github do/a revisor/a)              |
