@@ -10,9 +10,9 @@
 | 28/09/2023 | 1.2    | Adição dos Casos de Uso                           | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)         |
 | 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD                 | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
 | 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
-| 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
-| 03/10/2023 | 1.6    | Adição do fluxo de eventos do UC-01               | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
-
+| 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
+| 03/10/2023 | 1.6    | Adição da conclusão                               | [Laís Ramos](https://github.com/laisramos123)                                                          | [Charles Serafim](https://github.com/charles-serafim) |
+| 03/10/2023 | 1.7    | Adição do fluxo de eventos do UC-01               | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
 
 ## 2. Introdução
 
@@ -361,7 +361,7 @@ A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estã
 ## 5. Conclusão
 
 <p align='justify'>
-
+Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de casos de uso exprime relacionamentos complexos e entre os atores e casos de uso. Vale destacar também que no atual fluxo só há a presença de um ator específico, visto que o enfoque do grupo é fluxo de avaliação sob a visão do usuário comprador. 
 </p>
 
 
