@@ -78,6 +78,8 @@ Elementos concretos que são resultado de um processo de desenvolvimento. Podem 
 
 > O Guia Fácil de Diagramas de Implantação UML . Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/#:~:text=Um%20diagrama%20de%20implanta%C3%A7%C3%A3o%20%C3%A9,software%20f%C3%ADsico%20de%20um%20sistema. Acesso em: 04 out. 2023.
 
+> Diagrama de Implantação. Wiki Arquitetura e Desenho de Software - 2023.1_G3_ProjetoMercadoLivre. Disponível em: https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLEstaticos/diagramaImplantacao. Acesso em: 04 out. 2023.
+
 
 ## 6. Histórico de Versões
 
