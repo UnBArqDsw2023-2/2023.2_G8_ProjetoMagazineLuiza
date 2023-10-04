@@ -57,11 +57,11 @@ Autor: Iago de Sousa</center></em>
 <em><center>Figura 5: Diagrama de Atividades: Interações com comentários e avaliações<br>
 Autor: Iago de Sousa</center></em>
 
-## 5. Conclusão
+## 4. Conclusão
 
 &emsp;&emsp; O diagrama de atividades é uma ferramenta muito útil para a modelagem de processos, pois permite que sejam visualizados os fluxos de maneira mais clara e objetiva, permitindo que sejam feitas melhorias e otimizações no processo. Além disso, o diagrama de atividades é uma ferramenta que pode ser usada em qualquer processo, não apenas em processos de software, como pode ser visto na seção 1. É muito parecida com o BPMN, tendo o formato mais parecido com o fluxograma e caminho mais visíveis e simples, podendo ser usada de maneira mais lúdica do que o BPMN, porém podendo demonstrar fluxos de maneira muito semelhante.
 
-## 6. Referências
+## 5. Referências
 
 > SERRANO, Milene. Arquitetura e Desenho de Software: AULA - Diagrama de Atividades. Disponível em: <https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ed9k-OvMH7hMlNMj6CGVenMBSyeVrDBOdg84Czx_aHI9gw?e=ZzFF4A>. Acesso em: 29 set. de 2023.
 
@@ -69,10 +69,10 @@ Autor: Iago de Sousa</center></em>
 
 > Diagrama de atividades. Wikipedia, 2019. Disponível em: <https://pt.wikipedia.org/wiki/Diagrama_de_atividades>. Acesso em: 29 set. de 2023.
 
-## 7. Histórico de Versão
+## 6. Histórico de Versão
 
 | Data       | Versão | Modificação                                     | Autor      | Revisor          |
 |------------|--------|-------------------------------------------------|------------|------------------|
 | 29/09/2023 | 0.1    | Primeira versão do Diagrama de Atividades       | Iago Matos | Maurício Machado |
-| 02/10/2023 | 0.2    | Segunda versão do Diagrama + melhoria 1         | Iago Matos |                  |
-| 02/10/2023 | 0.3    | Terceira versão do Diagrama + melhorias 2, 3, 4 | Iago Matos |                  |
+| 02/10/2023 | 0.2    | Segunda versão do Diagrama + melhoria 1         | Iago Matos | Maurício Machado |
+| 02/10/2023 | 0.3    | Terceira versão do Diagrama + melhorias 2, 3, 4 | Iago Matos | Maurício Machado |
