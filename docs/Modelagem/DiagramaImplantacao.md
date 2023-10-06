@@ -31,7 +31,7 @@ Um diagrama de implantação é composto pelos elementos descritos a seguir:
 Representam cada parte da implantação, ou seja, os "destinos de implantação". Podem ser dispositivos de hardware ou ambientes de execução de software.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaImplantacao/nos.jpg"></div>
+<div align="center"><img src="../Assets/no.png"></div>
 <p style="text-align: center">Figura 1: Representação gráfica dos nós.</p> 
 
 #### Estereótipos
@@ -40,7 +40,7 @@ Representam cada parte da implantação, ou seja, os "destinos de implantação"
 São utilizados para identificar os tipos dos nós.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaImplantacao/estereotipos.jpg"></div>
+<div align="center"><img src="../Assets/esteriotipo.jpg"></div>
 <p style="text-align: center">Figura 2: Representação gráfica dos estereótipos.</p>
 
 #### Associações
@@ -49,7 +49,7 @@ São utilizados para identificar os tipos dos nós.
 São as comunicações entre os nós. Podem ser os protocolos ou conexões pelas quais as partes do sistema transmitem informações.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaImplantacao/associacoes.jpg"></div>
+<div align="center"><img src="../Assets/associacao.png"></div>
 <p style="text-align: center">Figura 3: Representação gráfica das associações.</p>
 
 #### Artefatos
@@ -58,12 +58,13 @@ São as comunicações entre os nós. Podem ser os protocolos ou conexões pelas
 Elementos concretos que são resultado de um processo de desenvolvimento. Podem ser arquivos executáveis, bibliotecas, esquemas de bancos de dados, arquivos de configuração, etc (FAKHROUTDINOV, 2023).
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaImplantacao/artefatos.jpg"></div>
+<div align="center"><img src="../Assets/artefato.png"></div>
 <p style="text-align: center">Figura 3: Representação gráfica utilizada para os artefatos.</p>
 
 
 ## 3. Diagrama de Implantação
-
+<div align="center"><img src="../Assets/diagrama.jpg"></div>
+<p style="text-align: center">Figura 4: Diagrama de implantação</p>
 
 ## 4. Conclusão
 
