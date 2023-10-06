@@ -1,15 +1,13 @@
 # Diagrama de Casos de Uso
 
-
 ## 1. Histórico de Versões
 
-| Data       | Versão | Descrição                         | Autor(a)                                                                                               | Revisor(a)                                      |
+|    Data    | Versão |             Descrição             |                                                Autor(a)                                                |                   Revisor(a)                    |
 | :--------: | :----: | :-------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| 27/09/2023 | 1.0    | Criação do documento, introdução  | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)   |
-| 28/09/2023 | 1.1    | Adição da Metodologia             | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard) |
-| 28/09/2023 | 1.2    | Adição dos Casos de Uso           | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)   |
-| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD | [Lucas Rodrigues](https://github.com/lucascard)                                                        | - |
-
+| 27/09/2023 |  1.0   | Criação do documento, introdução  |                         [Charles Serafim](https://github.com/charles-serafim)                          |  [Laís Ramos](https://github.com/laisramos123)  |
+| 28/09/2023 |  1.1   |       Adição da Metodologia       |                             [Laís Ramos](https://github.com/laisramos123)                              | [Lucas Rodrigues](https://github.com/lucascard) |
+| 28/09/2023 |  1.2   |      Adição dos Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) |  [Laís Ramos](https://github.com/laisramos123)  |
+| 28/09/2023 |  1.3   | Descrições dos Casos de Uso e BDD |                            [Lucas Rodrigues](https://github.com/lucascard)                             |                        -                        |
 
 ## 2. Introdução
 
@@ -25,20 +23,17 @@ Outros autores descrevem ainda o Diagrama de Casos de Uso como o diagrama mais g
 No presente documento, apresentamos os Diagramas de Casos de Uso modelados a respeito do sistema do site <a href="magazineluiza.com.br/">Magazine Luiza</a>.
 </p>
 
-
 ## 3. Detalhamento Metodológico
 
 <p align="justify">
 A confecção do Diagrama de Casos de Uso foi realizada utilizando a ferramenta <a href="https://www.lucidchart.com/pages/pt">Lucid Chart</a> e foram destacados os membros Laís Ramos, Charles Serafim e Lucas Rodrigues. Esses serão os mesmos que farão o artefato referente ao Diagrama de Implantação. A  disposição em questão seguiu as recomendações dadas em sala de aula. Vale destacar que para a confecção do diagrama, o trio se baseou na documentação e padronização prevista pela Linguagem de Modelagem Unificada (UML) e na documentação diponibilizada pela professora.
 </p>
 
-
 ### 3.1. Componentes e símbolos
 
 <p align="justify">
 Um diagrama de casos de uso é composto pelos elementos descritos a seguir:
 </p>
-
 
 #### Atores
 
@@ -47,8 +42,7 @@ Representam os usuários e sistemas envolvidos nas interações e comulmente sã
 </p>
 
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/comprador.jpg"></div>
-<p style="text-align: center">Figura 1: Representação gráfica utilizada para os Atores.</p> 
-
+<p style="text-align: center">Figura 1: Representação gráfica utilizada para os Atores.</p>
 
 #### Cenário
 
@@ -59,7 +53,6 @@ Sequência de eventos que acontecem quando um usuário interage com o sistema. G
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/cenario.jpg"></div>
 <p style="text-align: center">Figura 2: Representação gráfica utilizada para os Cenários.</p>
 
-
 #### Caso de uso
 
 <p align="justify">
@@ -69,13 +62,11 @@ Caso de uso é uma ação ou funcionalidade realizada pelo usuário. A forma mai
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/caso_de_uso.jpg"></div>
 <p style="text-align: center">Figura 3: Representação gráfica utilizada para os Casos de Uso.</p>
 
-
 #### Relacionamentos
 
 <p align="justify">
 São utilizados para representar, por meio de setas legendadas, as interações entre os atores e os casos de uso e entre casos de uso. Existem alguns tipos, dentre eles:
 </p>
-
 
 <p align="justify">
 <a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Inclusão:</b></a> Tipo de relacionamento que proporciona um caso de uso (o caso de uso base) incluir a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão permite a reutilização da funcionalidade em um modelo de caso de uso.
@@ -86,15 +77,13 @@ São utilizados para representar, por meio de setas legendadas, as interações 
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg"></div>
 <p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de inclusão.</p>
 
-
 <p align="justify">
 <a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Extensão:</b></a> São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
 </p>
 
-* Notação no diagrama: <<*extends*>>
+- Notação no diagrama: <<_extends_>>
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/extends.jpg"></div>
 <p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de extensão.</p>
-
 
 ### 3.2. BDD - Behavior Driven Development
 
@@ -105,7 +94,6 @@ O BDD(Desenvolvimento Orientado a Comportamento) é uma abordagem que se concent
 <p align="justify">
 No contexto de modelagem de casos de uso, o BDD é usado para especificar detalhadamente como um caso de uso deve funcionar em diferentes situações.
 </p>
-
 
 ## 4. Diagrama de Casos de Uso
 
@@ -136,88 +124,85 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
         <td>UC-02</td>
         <td>Visualizar avaliação</td>
         <td>Permite que os usuários visualizem as avaliações de um produto na página do produto.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível visualizar a avaliação</td>
     </tr>
     <tr>
         <td>UC-03</td>
         <td>Editar avaliação</td>
         <td>Permite que os usuários editem avaliações que eles já escreveram anteriormente.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E tenha feito uma avaliação para aquele produto<br>Então deve ser possível editar a avaliação</td>
     </tr>
     <tr>
         <td>UC-04</td>
         <td>Excluir avaliação</td>
         <td>Permite que os usuários excluam suas próprias avaliações de produtos.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E tenha feito uma avaliação para aquele produto<br>Então deve ser possível excluir a avaliação</td>
     </tr>
     <tr>
         <td>UC-05</td>
         <td>Recomendar avaliação</td>
         <td>Permite que os usuários recomendem avaliações escritas por outros usuários.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível recomendar a avaliação</td>
     </tr>
     <tr>
         <td>UC-06</td>
         <td>Comentar avaliação</td>
         <td>Permite que os usuários adicionem comentários às avaliações de produtos.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível adicionar um comentário na avaliação daquele produto</td>
     </tr>
     <tr>
         <td>UC-07</td>
         <td>Denunciar comentário</td>
         <td>Permite que os usuários denunciem comentários inapropriados feitos por outros usuários.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha uma avaliação com algum comentário<br>Então deve ser possível denunciar aquele comentário</td>
     </tr>
     <tr>
         <td>UC-08</td>
         <td>Filtrar avaliações por classificação</td>
         <td>Permite que os usuários filtrem as avaliações com base em classificações de estrelas.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>E tenha pelo menos uma avaliação com a estrela que o usuário deseja filtrar<br>Então deve ser possível filtrar pela classificação em estrelas do produto</td>
     </tr>
     <tr>
         <td>UC-09</td>
         <td>Ordenar avaliações por relevância</td>
         <td>Permite que os usuários ordenem as avaliações com base em critérios de relevância.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pela relevância daquele avaliação</td>
     </tr>
     <tr>
         <td>UC-10</td>
-        <td>Ordenar avaliações por data</td>
+        <td>Ordenar avaliações por mais recentes</td>
         <td>Permite que os usuários ordenem as avaliações com base na data de publicação.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avalições mais recentes</td>
     </tr>
     <tr>
         <td>UC-11</td>
         <td>Ordenar por positividade</td>
         <td>Permite que os usuários ordenem as avaliações com base na positividade.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avaliações com mais votos positivos</td>
     </tr>
     <tr>
         <td>UC-12</td>
         <td>Acumular pontos por avaliações</td>
         <td>Recompensa os usuários por escreverem avaliações úteis.</td>
-        <td></td>
+        <td>Dado que o usuário esteja logado<br>Quando ele contribuir avaliando produtos<br>Então ele deve receber pontos</td>
     </tr>
     <tr>
         <td>UC-13</td>
         <td>Trocar pontos por recompensas</td>
         <td>Permite que os usuários troquem pontos por benefícios ou recompensas.</td>
-        <td></td>
+        <td>Dado que o usuário esteja na página de recompensas<br>E tenha pontos por ter avaliado produtos<br>Então deve ser possível trocar os pontos por recompensas</td>
     </tr>
 </table>
-
 
 <p align='center'>
 Tabela 1: Lista de Casos de Uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
 </p>
-
 
 ## 5. Conclusão
 
 <p align='justify'>
 
 </p>
-
 
 ## 6. Referências
 
