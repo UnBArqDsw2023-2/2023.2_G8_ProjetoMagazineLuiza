@@ -2,12 +2,25 @@
 
 ## 1. Histórico de Versões
 
+<<<<<<< HEAD
 |    Data    | Versão |             Descrição             |                                                Autor(a)                                                |                   Revisor(a)                    |
 | :--------: | :----: | :-------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
 | 27/09/2023 |  1.0   | Criação do documento, introdução  |                         [Charles Serafim](https://github.com/charles-serafim)                          |  [Laís Ramos](https://github.com/laisramos123)  |
 | 28/09/2023 |  1.1   |       Adição da Metodologia       |                             [Laís Ramos](https://github.com/laisramos123)                              | [Lucas Rodrigues](https://github.com/lucascard) |
 | 28/09/2023 |  1.2   |      Adição dos Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) |  [Laís Ramos](https://github.com/laisramos123)  |
 | 28/09/2023 |  1.3   | Descrições dos Casos de Uso e BDD |                            [Lucas Rodrigues](https://github.com/lucascard)                             |                        -                        |
+=======
+| Data       | Versão | Descrição                                         | Autor(a)                                                                                               | Revisor(a)                                            |
+| :--------: | :----: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
+| 27/09/2023 | 1.0    | Criação do documento, introdução                  | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.1    | Adição da Metodologia                             | [Laís Ramos](https://github.com/laisramos123)                                                          | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 28/09/2023 | 1.2    | Adição dos Casos de Uso                           | [Charles Serafim](https://github.com/charles-serafim), [Lucas Rodrigues](https://github.com/lucascard) | [Laís Ramos](https://github.com/laisramos123)         |
+| 28/09/2023 | 1.3    | Descrições dos Casos de Uso e BDD                 | [Lucas Rodrigues](https://github.com/lucascard)                                                        | [Charles Serafim](https://github.com/charles-serafim) |
+| 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
+| 03/10/2023 | 1.6    | Adição da conclusão                               | [Laís Ramos](https://github.com/laisramos123)                                                          | [Charles Serafim](https://github.com/charles-serafim) |
+| 03/10/2023 | 1.7    | Adição do fluxo de eventos do UC-01               | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
+>>>>>>> d98926d5752d681acd795e413dda54f7bafbbb02
 
 ## 2. Introdução
 
@@ -69,21 +82,41 @@ São utilizados para representar, por meio de setas legendadas, as interações 
 </p>
 
 <p align="justify">
-<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Inclusão:</b></a> Tipo de relacionamento que proporciona um caso de uso (o caso de uso base) incluir a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão permite a reutilização da funcionalidade em um modelo de caso de uso.
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Associação: </b></a>Relacionamento entre ator e caso de uso. Ajuda a compreender quais são as ações que podem ser realizadas por aquele determinado ator.
+</p>
+  
+* Notação no diagrama:
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/associacao.jpg" width="200"></div>
+<p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de associação.</p>
+
+
+<p align="justify">
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Inclusão: </b></a>Tipo de relacionamento que proporciona um caso de uso (o caso de uso base) incluir a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão permite a reutilização da funcionalidade em um modelo de caso de uso.
 </p>
   
 * Notação no diagrama: <<*includes*>>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg"></div>
-<p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de inclusão.</p>
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg" width="200"></div>
+<p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de inclusão.</p>
 
 <p align="justify">
-<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Extensão:</b></a> São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case" width="200"><b>Extensão: </b></a>São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
 </p>
 
 - Notação no diagrama: <<_extends_>>
 <div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/extends.jpg"></div>
-<p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de extensão.</p>
+<p style="text-align: center">Figura 6: Representação gráfica utilizada para o relacionamento de extensão.</p>
+
+
+<p align="justify">
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case"><b>Generalização: </b></a>Este relacionamento indica uma relação de generalização/especialização. A seta parte do objeto específico para o geral, ou seja, do objeto que possui as mesmas características que o geral, porém possui características específicas particulares. Pode ser utilizado para relacionar casos de uso entre si e também para relacionar tipos de atores.
+</p>
+  
+* Notação no diagrama:
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/generalizacao.jpg" width="200"></div>
+<p style="text-align: center">Figura 7: Representação gráfica utilizada para o relacionamento de generalização.</p>
 
 ### 3.2. BDD - Behavior Driven Development
 
@@ -164,30 +197,41 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
     </tr>
     <tr>
         <td>UC-09</td>
+        <td>Ordenar avaliações</td>
+        <td>Permite que os usuários ordenem as avaliações com base em determinados critérios.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>UC-10</td>
         <td>Ordenar avaliações por relevância</td>
         <td>Permite que os usuários ordenem as avaliações com base em critérios de relevância.</td>
         <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pela relevância daquele avaliação</td>
     </tr>
     <tr>
+<<<<<<< HEAD
         <td>UC-10</td>
         <td>Ordenar avaliações por mais recentes</td>
+=======
+        <td>UC-11</td>
+        <td>Ordenar avaliações por data</td>
+>>>>>>> d98926d5752d681acd795e413dda54f7bafbbb02
         <td>Permite que os usuários ordenem as avaliações com base na data de publicação.</td>
         <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avalições mais recentes</td>
     </tr>
     <tr>
-        <td>UC-11</td>
+        <td>UC-12</td>
         <td>Ordenar por positividade</td>
         <td>Permite que os usuários ordenem as avaliações com base na positividade.</td>
         <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avaliações com mais votos positivos</td>
     </tr>
     <tr>
-        <td>UC-12</td>
+        <td>UC-13</td>
         <td>Acumular pontos por avaliações</td>
         <td>Recompensa os usuários por escreverem avaliações úteis.</td>
         <td>Dado que o usuário esteja logado<br>Quando ele contribuir avaliando produtos<br>Então ele deve receber pontos</td>
     </tr>
     <tr>
-        <td>UC-13</td>
+        <td>UC-14</td>
         <td>Trocar pontos por recompensas</td>
         <td>Permite que os usuários troquem pontos por benefícios ou recompensas.</td>
         <td>Dado que o usuário esteja na página de recompensas<br>E tenha pontos por ter avaliado produtos<br>Então deve ser possível trocar os pontos por recompensas</td>
@@ -198,10 +242,132 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
 Tabela 1: Lista de Casos de Uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
 </p>
 
+<<<<<<< HEAD
+=======
+
+### 4.2. Identificação das dependências
+
+<p align="justify">
+Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os casos de uso diversos.
+</p>
+
+<table align="center">
+    <tr>
+        <th>Casos de Uso</th>
+        <th>Relacionamento</th>
+    </tr>
+    <tr>
+        <td>UC-01 X UC-03</td>
+        <td>Inclusão</td>
+    </tr>
+    <tr>
+        <td>UC-01 X UC-04</td>
+        <td>Inclusão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-05</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-06</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-07</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-02 X UC-08</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-10</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-11</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-09 X UC-12</td>
+        <td>Generalização</td>
+    </tr>
+    <tr>
+        <td>UC-13 X UC-14</td>
+        <td>Inclusão</td>
+    </tr>
+</table>
+
+<p align='center'>
+Tabela 2: Identificação das dependências entre casos de uso. Autores: Charles Serafim, Laís Ramos e Lucas Rodrigues.
+</p>
+
+
+### 4.3. Fluxos de Eventos
+
+<h3>UC-01: Escrever avaliação</h3>
+
+* Atores: Comprador
+* Pré-Condições: O ator deve estar logado no sistema.
+* Pós-Condições: O ator verá a sua avaliação publicada após decorrido o tempo de análise da mesma.
+
+<h4>Fluxo Principal: Avaliação publicada através da página do produto</h4>
+
+1. O caso de uso se inicia quando o ator já logado acessa a página de um produto.
+2. O ator acessa a página de avaliação do produto.
+3. O ator preenche o formulário de avaliação com as informações correspondentes aos campos do formulário.
+4. O ator envia a avaliação.
+5. O sistema realiza a análise da avaliação.
+6. O sistema aprova a avaliação.
+7. O sistema exibe a avaliação na página do produto.
+8. O caso de uso se encerra.
+
+<h4>Fluxo Alternativo: Avaliação publicada através da página do cliente, com adição de imagens do produto</h4>
+
+1. O caso de uso se inicia quando o ator já logado acessa a sua página de pedidos.
+2. O ator seleciona em um pedido finalizado a opção de avaliar produto.
+3. O ator acessa a página de avaliação do produto.
+4. O ator preenche o formulário de avaliação com as informações correspondentes aos campos do formulário.
+5. O ator adiciona imagens do produto que adquiriu
+6. O ator envia a avaliação.
+7. O sistema realiza a análise da avaliação.
+8. O sistema aprova a avaliação.
+9. O sistema exibe a avaliação na página do produto.
+10. O caso de uso se encerra.
+
+<h4>Fluxo de Exceção 1: Produto não adquirido</h4>
+
+ - No passo 2, se o ator não tiver adquirido anteriormente o produto que pretende avaliar:
+1. O sistema exibe uma notificação ao ator informando que só é possível avaliar produtos já adquiridos.
+2. O fluxo retorna para o passo 8 do fluxo base.
+
+<h4>Fluxo de Exceção 2: Produto já avaliado</h4>
+
+ - No passo 2, se o ator já tiver publicado uma avaliação do mesmo produto anteriormente:
+1. O sistema exibe uma notificação ao ator informando que só é possível enviar uma avaliação por produto.
+2. O fluxo retorna para o passo 8 do fluxo base.
+
+<h4>Fluxo de Exceção 3: Avaliação não aprovada</h4>
+
+ - No passo 6, se a avaliação não tiver sido aprovada:
+1. O sistema envia notificação ao ator informando que a avaliação não foi aprovada.
+2. O sistema não realiza a publicação da avaliação na página do produto.
+3. O fluxo retorna para o passo 1 do fluxo base.
+
+
+### 4.4. Diagrama de Casos de Uso
+
+A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
+
+<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
+<p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
+
+
+>>>>>>> d98926d5752d681acd795e413dda54f7bafbbb02
 ## 5. Conclusão
 
 <p align='justify'>
-
+Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de casos de uso exprime relacionamentos complexos e entre os atores e casos de uso. Vale destacar também que no atual fluxo só há a presença de um ator específico, visto que o enfoque do grupo é fluxo de avaliação sob a visão do usuário comprador. 
 </p>
 
 ## 6. Referências
