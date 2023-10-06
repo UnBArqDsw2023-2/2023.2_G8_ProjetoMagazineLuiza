@@ -40,7 +40,7 @@ Um diagrama de casos de uso é composto pelos elementos descritos a seguir:
 Representam os usuários e sistemas envolvidos nas interações e comulmente são representados por bonecos palito.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/comprador.jpg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/comprador.jpg"></div>
 <p style="text-align: center">Figura 1: Representação gráfica utilizada para os Atores.</p> 
 
 
@@ -50,7 +50,7 @@ Representam os usuários e sistemas envolvidos nas interações e comulmente sã
 Sequência de eventos que acontecem quando um usuário interage com o sistema. Geralmente é representado por uma caixa. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/cenario.jpg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/cenario.jpg"></div>
 <p style="text-align: center">Figura 2: Representação gráfica utilizada para os Cenários.</p>
 
 
@@ -60,7 +60,7 @@ Sequência de eventos que acontecem quando um usuário interage com o sistema. G
 Caso de uso é uma ação ou funcionalidade realizada pelo usuário. A forma mais utilizada para representar casos de uso é a forma oval horizontal, onde cada forma representa um caso de uso diferente que o usuário pode ter. Por representarem ações, recomenda-se o uso de verbos no infinitivo para descrevê-los.
 </p>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/caso_de_uso.jpg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/caso_de_uso.jpg"></div>
 <p style="text-align: center">Figura 3: Representação gráfica utilizada para os Casos de Uso.</p>
 
 
@@ -77,7 +77,7 @@ São utilizados para representar, por meio de setas legendadas, as interações 
   
 * Notação no diagrama:
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/associacao.jpg" width="200"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/associacao.jpg" width="200"></div>
 <p style="text-align: center">Figura 4: Representação gráfica utilizada para o relacionamento de associação.</p>
 
 
@@ -87,7 +87,7 @@ São utilizados para representar, por meio de setas legendadas, as interações 
   
 * Notação no diagrama: <<*includes*>>
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/includes.jpg" width="200"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/includes.jpg" width="200"></div>
 <p style="text-align: center">Figura 5: Representação gráfica utilizada para o relacionamento de inclusão.</p>
 
 
@@ -96,7 +96,7 @@ São utilizados para representar, por meio de setas legendadas, as interações 
 </p>
 
 * Notação no diagrama: <<*extends*>>
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/extends.jpg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/extends.jpg"></div>
 <p style="text-align: center">Figura 6: Representação gráfica utilizada para o relacionamento de extensão.</p>
 
 
@@ -106,7 +106,7 @@ São utilizados para representar, por meio de setas legendadas, as interações 
   
 * Notação no diagrama:
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/generalizacao.jpg" width="200"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/generalizacao.jpg" width="200"></div>
 <p style="text-align: center">Figura 7: Representação gráfica utilizada para o relacionamento de generalização.</p>
 
 
@@ -788,7 +788,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
 
-<div align="center"><img src="../Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
 <p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
 
 
