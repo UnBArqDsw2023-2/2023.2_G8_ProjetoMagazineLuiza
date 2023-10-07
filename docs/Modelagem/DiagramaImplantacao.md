@@ -66,8 +66,8 @@ Elementos concretos que são resultado de um processo de desenvolvimento. Podem 
 <div align="center"><img src="../Assets/diagrama.jpg"></div>
 <p style="text-align: center">Figura 4: Diagrama de implantação</p>
 
-## 4. Conclusão
 
+## 4. Conclusão
 
 ## 5. Referências
 
