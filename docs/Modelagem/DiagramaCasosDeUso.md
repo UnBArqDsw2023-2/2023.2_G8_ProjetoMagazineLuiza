@@ -23,6 +23,18 @@ A confecção do Diagrama de Casos de Uso foi realizada utilizando a ferramenta 
 </p>
 
 <p align="justify">
+O primeiro passo para a construção do diagrama foi a pesquisa bibliográfica, a fim de encontrar fontes e modelos de referência para o assunto. Após esta fase, foi realizada a descrição da introdução e metodologia.
+</p>
+
+<p align="justify">
+Em seguida, passamos para a identificação dos casos de uso. Foi utilizado o <a href="https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/BPMN">Fluxo BPMN da Plataforma</a> como referencia para a identificação da maior parte dos casos de uso. Nesta estapa, foram identificados os códigos e os títulos dos casos de uso. Nessa etapa participaram todos os membros. Após a identificação dos casos de uso, o membro Lucas Rodrigues realizou a descrição dos mesmos.
+</p>
+
+<p align="justify">
+Com os casos de uso identificados, os membros Laís Ramos e Charles Serafim realizaram a confecção do Diagrama de Casos de Uso e a identificação dos relacionamentos e dependências. Em seguida, o membro Charles Serafim realizou a descrição dos fluxos de eventos para cada caso de uso. Por fim, o membro Lucas Rodrigues fez a descrição do BDD para cada caso de uso.
+</p>
+
+<p align="justify">
 Cabe ressaltar também que foram utilizados como apoio para a geração e descrição dos casos de uso o documento anteriormente produzido do <a href="https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/BPMN">Fluxo BPMN da Plataforma</a>, bem como os <a href="https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/Prototipo">Protótipos da plataforma e das melhorias elicitadas para o projeto</a>.
 </p>
 
@@ -245,10 +257,14 @@ Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os c
     </tr>
     <tr>
         <td>UC-01 X UC-03</td>
-        <td>Inclusão</td>
+        <td>Extensão</td>
     </tr>
     <tr>
         <td>UC-01 X UC-04</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
+        <td>UC-01 X UC-13</td>
         <td>Inclusão</td>
     </tr>
     <tr>
@@ -268,6 +284,10 @@ Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os c
         <td>Extensão</td>
     </tr>
     <tr>
+        <td>UC-02 X UC-09</td>
+        <td>Extensão</td>
+    </tr>
+    <tr>
         <td>UC-09 X UC-10</td>
         <td>Generalização</td>
     </tr>
@@ -281,7 +301,7 @@ Na Tabela 2, detalhamos os relacionamentos e dependências existentes entre os c
     </tr>
     <tr>
         <td>UC-13 X UC-14</td>
-        <td>Inclusão</td>
+        <td>Extensão</td>
     </tr>
 </table>
 
@@ -505,7 +525,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 * Atores: Comprador
 * Pré-Condições: O ator deve estar logado no sistema.
-* Pós-Condições: O sistema realizará a exclusão do comentário.
+* Pós-Condições: O sistema realizará a exclusão do comentário ou o sistema manterá o comentário na plataforma.
 
 <h4>Fluxo Principal: Denúncia aprovada</h4>
 
@@ -788,7 +808,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estão representados todos os casos de uso elicitados.
 
-<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.jpeg"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/diagrama_geral.png"></div>
 <p style="text-align: center">Figura 8: Diagrama de Casos de Uso.</p>
 
 
@@ -813,7 +833,7 @@ Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de caso
 
 > Protótipo. Wiki Arquitetura e Desenho de Software - 2023.2_G8_ProjetoMagazineLuiza. Disponível em: <https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/Prototipo>. Acesso em: 05 out. de 2023.
 
-> Relacionamentos em Diagramas de Caso de Uso . Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case
+> Relacionamentos em Diagramas de Caso de Uso . Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case. Acesso em: 05 out. de 2023.
 
 
 ## 6. Histórico de Versões
@@ -827,4 +847,5 @@ Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de caso
 | 01/10/2023 | 1.4    | Criação e adição do Diagrama de Casos de Uso      | [Charles Serafim](https://github.com/charles-serafim), [Laís Ramos](https://github.com/laisramos123)   | [Lucas Rodrigues](https://github.com/lucascard)       |
 | 03/10/2023 | 1.5    | Adição da tabela de identificação de dependências | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
 | 03/10/2023 | 1.6    | Adição da conclusão                               | [Laís Ramos](https://github.com/laisramos123)                                                          | [Charles Serafim](https://github.com/charles-serafim) |
-| 03/10/2023 | 1.7    | Adição do fluxo de eventos do UC-01               | [Charles Serafim](https://github.com/charles-serafim)                                                  | - |
+| 03/10/2023 | 1.7    | Adição do fluxo de eventos dos casos de uso       | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Lucas Rodrigues](https://github.com/lucascard)       |
+| 07/10/2023 | 1.8    | Ajustes na metodologia e relacionamentos          | [Charles Serafim](https://github.com/charles-serafim)                                                  | [Laís Ramos](https://github.com/laisramos123)         |
