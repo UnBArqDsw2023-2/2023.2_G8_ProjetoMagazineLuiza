@@ -62,4 +62,4 @@ Figura 3: Diagrama de Sequência "Avaliar Produto". Autores: Natan Tavares Santa
 
 | Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
 | :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
-| 05/10/2023 | 1.0    | Criação do documento de Diagrama de Sequência                  | [Natan Santana](https://github.com/Neitan2001) | [Maurício Machado](https://github.com/MauricioMachadoFF) |
+| 05/10/2023 | 1.0    | Criação do documento de Diagrama de Sequência                  | [Natan Santana](https://github.com/Neitan2001) e [Clara Marcelino](https://github.com/clara-ribeiro)| [Maurício Machado](https://github.com/MauricioMachadoFF) |
