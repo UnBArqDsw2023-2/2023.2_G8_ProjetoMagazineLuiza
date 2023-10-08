@@ -30,6 +30,7 @@
         - [2.1.2.1 Diagrama de Atividades](./Modelagem/DiagramadeAtividades.md)
         - [2.1.2.2. Diagrama de Casos de Uso](./Modelagem/DiagramaCasosDeUso.md)
         - [2.1.2.3. Diagrama de Sequência](./Modelagem/DiagramaSequencia.md)
+        - [2.1.2.4. Diagrama de Colaboração](./Modelagem/2.1.2.4.DiagramaDeColaboracao.md)
     - [2.2. Participações - Modelagem](./Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
