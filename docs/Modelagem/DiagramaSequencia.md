@@ -29,7 +29,7 @@ As mensagens podem ser de vários tipos, incluindo:
 
 Todos os elementos de um diagrama de sequência podem ser observados na legenda presente na Figura 1 abaixo.
 
-<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/legenda_sequencia.png" alt="Figura 1: Legenda de diagrama de sequência.">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/52-diagrama-sequencia/docs/Assets/legenda_sequencia.png" alt="Figura 1: Legenda de diagrama de sequência.">
 
 <p align='center'>
 Figura 1: Legenda de diagrama de sequência. Autores: Natan Tavares Santana e Clara Ribeiro. Fonte: LucidChart
@@ -41,13 +41,13 @@ Figura 1: Legenda de diagrama de sequência. Autores: Natan Tavares Santana e Cl
 Foi feito dois diagramas de sequencia, um para cada fluxo mais relevante da aplicação que envolva as avaliações. Na Figura 2 é possível observar o diagrama de Visualizar Avaliações e na Figura 3 o diagrama de Avaliar Produto.
 <p>
 
-<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/sequencia_visualizar.png" alt="Figura 2: Diagrama de Sequência Visualizar Avaliações">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/52-diagrama-sequencia/docs/Assets/sequencia_visualizar.png" alt="Figura 2: Diagrama de Sequência Visualizar Avaliações">
 
 <p align='center'>
 Figura 2: Diagrama de Sequência "Visualizar Avaliações". Autores: Natan Tavares Santana e Clara Ribeiro. Fonte: LucidChart
 </p>
 
-<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/sequencia_avaliar.png" alt="Figura 3: Diagrama de Sequência Avaliar Produto">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/52-diagrama-sequencia/docs/Assets/sequencia_avaliar.png" alt="Figura 3: Diagrama de Sequência Avaliar Produto">
 
 <p align='center'>
 Figura 3: Diagrama de Sequência "Avaliar Produto". Autores: Natan Tavares Santana e Clara Ribeiro. Fonte: LucidChart
@@ -62,4 +62,4 @@ Figura 3: Diagrama de Sequência "Avaliar Produto". Autores: Natan Tavares Santa
 
 | Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
 | :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
-| 05/10/2023 | 1.0    | Criação do documento de Diagrama de Sequência                  | [Natan Santana](https://github.com/Neitan2001) |  |
+| 05/10/2023 | 1.0    | Criação do documento de Diagrama de Sequência                  | [Natan Santana](https://github.com/Neitan2001) | [Maurício Machado](https://github.com/MauricioMachadoFF) |
