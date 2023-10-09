@@ -19,7 +19,7 @@ A confecção do Diagrama de Implantação foi realizada utilizando a ferramenta
 </p>
 
 <p align="justify">
-O primeiro passo para a construção do diagrama foi a pesquisa bibliográfica, a fim de encontrar fontes e modelos de referência para o assunto. Após esta fase, foi realizada a descrição da introdução e metodologia, pelo membro Charles Serafim.
+O primeiro passo para a construção do diagrama foi a pesquisa bibliográfica, a fim de encontrar fontes e modelos de referência para o assunto, o que foi realizado por todos os membros do pareamento. Após esta fase, foi realizada a descrição da introdução e metodologia, pelo membro Charles Serafim.
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ Em seguida, passamos para a construção do diagrama em si. Laís Ramos realizou
 </p>
 
 <p align="justify">
-Por fim, o membro Lucas Rodrigues fez o relato da conclusão do grupo acerca da construção do Diagrama de Implantação.
+Por fim, o membro Charles fez o relato da conclusão do grupo acerca da construção do Diagrama de Implantação.
 </p>
 
 <p align="justify">
@@ -85,6 +85,10 @@ Elementos concretos que são resultado de um processo de desenvolvimento. Podem 
 
 ## 4. Conclusão
 
+<p align="justify">
+EleEm conclusão, a elaboração do Diagrama de Implantação do sistema mostrou-se muito útil para compreender as possibilidades de arquitetura física do sistema e a integração entre as suas diversas partes, detalhando como se comunicam e trocam informação, além de ter sido interessante elaborar uma representação visual para estes aspectos para compreensão mais intuitiva.
+</p>
+
 ## 5. Referências
 
 > GUEDES, Gilleanes T. A. UML 2: Uma abordagem prática. 1. ed. São Paulo: Novatec Editora, 2009. ISBN 978-7522-149-5.
@@ -104,4 +108,4 @@ Elementos concretos que são resultado de um processo de desenvolvimento. Podem 
 | :--------: | :----: | :--------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
 | 04/10/2023 | 1.0    | Criação do documento, introdução e metodologia | [Charles Serafim](https://github.com/charles-serafim) | [Lucas Rodrigues](https://github.com/lucascard)       |
 | 05/10/2023 | 1.1    | Criação do Diagrama de Implantação             | [Laís Ramos](https://github.com/laisramos123)         | [Charles Serafim](https://github.com/charles-serafim) |
-| 08/10/2023 | 1.2    | Adição da Conclusão                            | [Lucas Rodrigues](https://github.com/lucascard)       | [Laís Ramos](https://github.com/laisramos123)         |
+| 08/10/2023 | 1.2    | Adição da Conclusão                            | [Charles Serafim](https://github.com/charles-serafim) | [Lucas Rodrigues](https://github.com/lucascard)       |
