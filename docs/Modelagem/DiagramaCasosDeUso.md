@@ -19,7 +19,7 @@ No presente documento, apresentamos os Diagramas de Casos de Uso modelados a res
 ## 2. Detalhamento Metodológico
 
 <p align="justify">
-A confecção do Diagrama de Casos de Uso foi realizada utilizando a ferramenta <a href="https://www.lucidchart.com/pages/pt">Lucid Chart</a> e foram destacados os membros Laís Ramos, Charles Serafim e Lucas Rodrigues. Esses serão os mesmos que farão o artefato referente ao Diagrama de Implantação. A  disposição em questão seguiu as recomendações dadas em sala de aula. Vale destacar que para a confecção do diagrama, o trio se baseou na documentação e padronização prevista pela Linguagem de Modelagem Unificada (UML) e na documentação diponibilizada pela professora.
+A confecção do Diagrama de Casos de Uso foi realizada utilizando a ferramenta <a href="https://www.lucidchart.com/pages/pt">Lucid Chart</a> e foram destacados os membros Laís Ramos, Charles Serafim e Lucas Rodrigues. Esses serão os mesmos que farão o artefato referente ao Diagrama de Implantação. A  disposição em questão seguiu as recomendações dadas em sala de aula. Vale destacar que para a confecção do diagrama, o trio se baseou na documentação e padronização prevista pela Linguagem de Modelagem Unificada (UML) e na documentação disponibilizada pela professora.
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ O primeiro passo para a construção do diagrama foi a pesquisa bibliográfica, 
 </p>
 
 <p align="justify">
-Em seguida, passamos para a identificação dos casos de uso. Foi utilizado o <a href="https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/BPMN">Fluxo BPMN da Plataforma</a> como referencia para a identificação da maior parte dos casos de uso. Nesta estapa, foram identificados os códigos e os títulos dos casos de uso. Nessa etapa participaram todos os membros. Após a identificação dos casos de uso, o membro Lucas Rodrigues realizou a descrição dos mesmos.
+Em seguida, passamos para a identificação dos casos de uso. Foi utilizado o <a href="https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/BPMN">Fluxo BPMN da Plataforma</a> como referência para a identificação da maior parte dos casos de uso. Nesta etapa, foram identificados os códigos e os títulos dos casos de uso. Nessa etapa participaram todos os membros. Após a identificação dos casos de uso, o membro Lucas Rodrigues realizou a descrição dos mesmos.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ Um diagrama de casos de uso é composto pelos elementos descritos a seguir:
 #### Atores
 
 <p align="justify">
-Representam os usuários e sistemas envolvidos nas interações e comulmente são representados por bonecos palito.
+Representam os usuários e sistemas envolvidos nas interações e comumente são representados por bonecos palito.
 </p>
 
 <div align="center"><img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G8_ProjetoMagazineLuiza/main/docs/Assets/Modelagem/DiagramaCasosDeUso/comprador.jpg"></div>
@@ -104,7 +104,7 @@ São utilizados para representar, por meio de setas legendadas, as interações 
 
 
 <p align="justify">
-<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case" width="200"><b>Extensão: </b></a>São utilizadps para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
+<a href="https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=diagrams-relationships-in-use-case" width="200"><b>Extensão: </b></a>São utilizados para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Este tipo revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
 </p>
 
 * Notação no diagrama: <<*extends*>>
@@ -217,7 +217,7 @@ Na Tabela 1, apresentamos uma lista dos casos de uso identificados no projeto.
         <td>UC-11</td>
         <td>Ordenar avaliações por data</td>
         <td>Permite que os usuários ordenem as avaliações com base na data de publicação.</td>
-        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avalições mais recentes ou mais antigas</td>
+        <td>Dado que o usuário esteja na página de avaliações<br>E o produto tenha pelo menos uma avaliação aprovada<br>Então deve ser possível ordenar a lista de avaliações pelas avaliações mais recentes ou mais antigas</td>
     </tr>
     <tr>
         <td>UC-12</td>
@@ -353,7 +353,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 <h4>Fluxo de Exceção 2: Produto já avaliado</h4>
 
-- No passo 2, se o ator já tiver publenvia a avaliaçãoicado uma avaliação do mesmo produto anteriormente:
+- No passo 2, se o ator já tiver publicado uma avaliação do mesmo produto anteriormente:
 1. O sistema exibe uma notificação ao ator informando que só é possível enviar uma avaliação por produto.
 2. O fluxo retorna para o passo 8 do fluxo base.
 
@@ -582,7 +582,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 3. O sistema exibe os comentários e avaliações sobre um produto.
 4. O sistema exibe um menu clicável com a quantidade de avaliações por estrela.
 5. O ator seleciona uma seção referente às avaliações de uma determinada classificação / nota.
-6. O sistema exibe apenas as avaliações e comentários de nota referente à classificação selecionada pelo ator.
+6. O sistema exibe apenas as avaliações e comentários de nota referentes à classificação selecionada pelo ator.
 7. O caso de uso se encerra.
 
 <h4>Fluxo de Exceção 1: Não há avaliações publicadas</h4>
@@ -627,7 +627,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 * Atores: Comprador
 * Pré-Condições: O ator deve acessar a página de um produto.
-* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo a relevância calculada dos mesmos.
+* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo com a relevância calculada dos mesmos.
 
 <h4>Fluxo Principal: Avaliações ordenadas por relevância</h4>
 
@@ -636,8 +636,8 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 3. O sistema exibe os comentários e avaliações sobre um produto.
 4. O sistema exibe um menu suspenso com opções de ordenação.
 5. O ator seleciona a opção de ordenar as avaliações por relevância.
-6. O sistema computa a ordenação por relevância de acordo com o número de recomendações de útil na avaliação.
-7. O sistema exibe a lista de avaliações e comentários desta vez ordenados em ordem descrescente de relevância.
+6. O sistema computa a ordenação por relevância de acordo com o número de recomendações utéis na avaliação.
+7. O sistema exibe a lista de avaliações e comentários desta vez ordenados em ordem decrescente de relevância.
 8. O caso de uso se encerra.
 
 <h4>Fluxo de Exceção 1: Não há avaliações publicadas</h4>
@@ -658,7 +658,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 * Atores: Comprador
 * Pré-Condições: O ator deve acessar a página de um produto.
-* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo a data de publicação.
+* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo com a data de publicação.
 
 <h4>Fluxo Principal: Avaliações ordenadas das mais recentes para as mais antigas</h4>
 
@@ -673,7 +673,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 <h4>Fluxo Alternativo: Avaliações ordenadas das mais antigas para as mais recentes</h4>
 
-- No passo 5, se o ator selecioanr a opção de ordenar as avaliações das mais antigas para as mais recentes:
+- No passo 5, se o ator selecionar a opção de ordenar as avaliações das mais antigas para as mais recentes:
 1. O sistema computa a ordenação por data em ordem crescente.
 2. O sistema exibe a lista de avaliações e comentários desta vez ordenados em ordem crescente de data de publicação.
 3. O caso de uso se encerra.
@@ -689,7 +689,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 * Atores: Comprador
 * Pré-Condições: O ator deve acessar a página de um produto.
-* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo a classificação.
+* Pós-Condições: O ator verá as avaliações e comentários ordenados de acordo com a classificação.
 
 <h4>Fluxo Principal: Avaliações ordenadas da maior classificação para a menor</h4>
 
@@ -704,7 +704,7 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 
 <h4>Fluxo Alternativo: Avaliações ordenadas da menor classificação para a maior</h4>
 
-- No passo 5, se o ator selecioanr a opção de ordenar as avaliações das mais mal avaliadas para as mais bem avaliadas:
+- No passo 5, se o ator selecionar a opção de ordenar as avaliações das mais mal avaliadas para as mais bem avaliadas:
 1. O sistema computa a ordenação por ordem crescente de classificação.
 2. O sistema exibe a lista de avaliações e comentários desta vez ordenados em ordem crescente de classificação.
 3. O caso de uso se encerra.
@@ -785,14 +785,14 @@ A seguir, apresentamos os fluxos de eventos de cada caso de uso descrito.
 15. O sistema realiza o decremento dos pontos referentes à troca do saldo de pontos do ator.
 16. O caso de uso se encerra.
 
-<h4>Fluxo Alternatico: Continuar trocando produtos</h4>
+<h4>Fluxo Alternativo: Continuar trocando produtos</h4>
 
 - No passo 9, se o ator quiser continuar navegando pelos produtos:
 1. O fluxo retorna para o passo 3 do fluxo base.
 
 <h4>Fluxo de Exceção 1: Saldo de pontos insuficiente</h4>
 
-- No passo 9, se o ator não tiver uma quantidade de pontos maior ou igual ao valor em pontos do protudo:
+- No passo 9, se o ator não tiver uma quantidade de pontos maior ou igual ao valor em pontos do produto:
 1. O sistema exibe uma caixa de diálogo com a mensagem "Saldo insuficiente".
 2. O fluxo retorna para o passo 3 do fluxo base.
 
@@ -815,7 +815,7 @@ A seguir, na Figura 8, apresentamos o Diagrama de Casos de Uso geral, onde estã
 ## 4. Conclusão
 
 <p align='justify'>
-Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de casos de uso exprime relacionamentos complexos e entre os atores e casos de uso. Vale destacar também que no atual fluxo só há a presença de um ator específico, visto que o enfoque do grupo é fluxo de avaliação sob a visão do usuário comprador. 
+Nota-se portanto, que apesar do  fluxo relativamente pequeno, o diagrama de casos de uso exprime relacionamentos complexos e entre os atores e casos de uso. Vale destacar também que no atual fluxo só há a presença de um ator específico, visto que o enfoque do grupo é o fluxo de avaliação sob a visão do usuário comprador. 
 </p>
 
 
