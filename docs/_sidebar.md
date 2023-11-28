@@ -25,7 +25,14 @@
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](./Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](./Modelagem/2.1.1.UMLEstaticos.md)
         - [2.1.1.1. Diagrama de Classes](./Modelagem/2.1.1.1.DiagramaClasses.md)
+        - [2.1.1.2. Diagrama de Pacotes](./Modelagem/2.1.1.2.DiagramaPacotes.md)
+        - [2.1.1.3. Diagrama de Componentes](./Modelagem/2.1.1.3.DiagramaComponentes.md)
+        - [2.1.1.4. Diagrama de Implantação](./Modelagem/2.1.1.4.DiagramaImplantacao.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](./Modelagem/2.1.2.UMLDinamicos.md)
+        - [2.1.2.1. Diagrama de Sequência](./Modelagem/2.1.2.1.DiagramaSequencia.md)
+        - [2.1.2.2. Diagrama de Atividades](./Modelagem/2.1.2.2.DiagramadeAtividades.md)
+        - [2.1.2.3. Diagrama de Casos de Uso](./Modelagem/2.1.2.3.DiagramaCasosDeUso.md)
+        - [2.1.2.4. Diagrama de Colaboração](./Modelagem/2.1.2.4.DiagramaDeColaboracao.md)
     - [2.2. Participações - Modelagem](./Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
@@ -42,3 +49,4 @@
 
 - **Atas**
   - [19/09/2023](./Atas/ata_19_09_2023.md)
+  - [03/10/2023](./Atas/ata_03_10_2023.md)
