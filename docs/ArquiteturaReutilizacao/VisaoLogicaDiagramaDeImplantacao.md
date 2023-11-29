@@ -34,5 +34,5 @@ Para o Diagrama de Implementação, utilizamos o design pattern Template Method,
 
 | Data       | Versão | Descrição                                                   | Autor(a)                                              | Revisor(a)                                         |
 | :--------: | :----: | :---------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: |
-| 25/11/2023 | 1.0    | Criação do documento               | [Laís Ramos](https://github.com/brunna-martins) | - |
-| 27/11/2023 | 1.1    | Contextualização do Design Pattern               | [Laís Ramos](https://github.com/brunna-martins) | - |
+| 25/11/2023 | 1.0    | Criação do documento               | [Laís Ramos](https://github.com/brunna-martins) | [Thiago Cerqueira](https://github.com/Thiago-Cerq)  |
+| 27/11/2023 | 1.1    | Contextualização do Design Pattern               | [Laís Ramos](https://github.com/brunna-martins) | [Thiago Cerqueira](https://github.com/Thiago-Cerq)  |
