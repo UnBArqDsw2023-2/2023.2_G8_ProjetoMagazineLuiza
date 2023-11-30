@@ -6,6 +6,10 @@ abstract class DesignSystemFactory {
   ReviewCard createReviewCard();
 }
 
+abstract class DesignSystemFactoryCard {
+  RatingCard createRatingCard();
+}
+
 // Abstract product: Button
 abstract class Button {
   Widget render();
@@ -13,5 +17,10 @@ abstract class Button {
 
 // Abstract product: ReviewCard
 abstract class ReviewCard {
+  Widget render();
+}
+
+// Abstract product: Card
+abstract class RatingCard {
   Widget render();
 }
