@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:frontend_example/example_page.dart';
+import 'package:frontend_example/example_rating_cards.dart';
 
 import 'core/injection.dart';
 
