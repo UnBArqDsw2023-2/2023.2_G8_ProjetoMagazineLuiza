@@ -13,3 +13,8 @@ DROP TABLE IF EXISTS Avaliacao;
 DROP TABLE IF EXISTS Produto;
 DROP TABLE IF EXISTS Usuario;
 DROP TABLE IF EXISTS Endereco;
+
+-- Drop Users
+DROP USER IF EXISTS 'administrator'@'localhost';
+DROP USER IF EXISTS 'cliente'@'localhost';
+FLUSH PRIVILEGES;
