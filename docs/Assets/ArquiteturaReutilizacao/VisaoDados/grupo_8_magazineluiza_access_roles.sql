@@ -1,8 +1,4 @@
 -- Criação de usuários (simulando roles)
-DROP USER IF EXISTS 'administrator'@'localhost';
-DROP USER IF EXISTS 'cliente'@'localhost';
-FLUSH PRIVILEGES;
-
 CREATE USER 'administrator'@'localhost' IDENTIFIED BY 'admin123';
 CREATE USER 'cliente'@'localhost' IDENTIFIED BY 'cliente123';
 
