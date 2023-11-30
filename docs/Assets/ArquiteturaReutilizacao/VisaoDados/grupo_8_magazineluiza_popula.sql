@@ -1,6 +1,7 @@
+USE grupo_8_magazineluiza;
+
 -- Populate Endereco table
-INSERT INTO Endereco (cep, estado, cidade, bairro, rua, numero, complemento) 
-VALUES
+INSERT INTO Endereco (cep, estado, cidade, bairro, rua, numero, complemento) VALUES
     ('12345678', 'SP', 'Sao Paulo', 'Centro', 'Avenida Paulista', '123', 'Apto 1'),
     ('87654321', 'RJ', 'Rio de Janeiro', 'Copacabana', 'Rua Nascimento Silva', '456', 'Bloco B'),
     ('23456789', 'MG', 'Belo Horizonte', 'Savassi', 'Rua da Bahia', '789', 'Casa 2'),
@@ -31,9 +32,9 @@ VALUES
     ('78901234', 'SC', 'Criciuma', 'Centro', 'Rua Henrique Lage', '567', 'Conjunto 47'),
     ('89012345', 'BA', 'Ilheus', 'Centro', 'Avenida Osvaldo Cruz', '678', 'Apto 49'),
     ('90123456', 'PE', 'Caruaru', 'Indianopolis', 'Rua Cel. Limeira', '789', 'Casa 51');
-    
+
 -- Populate Usuario table
-INSERT INTO Usuario (nome, email, senha, id_carrinho) 
+INSERT INTO Usuario (nome, email, senha, id_carrinho)
 VALUES
     ('John Doe', 'john.doe@example.com', 'password123', 1),
     ('Jane Smith', 'jane.smith@example.com', 'letmein', 2),
@@ -79,7 +80,7 @@ VALUES
     ('Jackson Smith', 'jackson.smith@example.com', 'letmein765', 42),
     ('Harper Davis', 'harper.davis@example.com', 'myp@ss567', 43),
     ('Emma Johnson', 'emma.johnson@example.com', 'qwerty567', 44);
-    
+
 -- Populate Endereco_Usuario table
 INSERT INTO Endereco_Usuario (fk_Usuario_Carrinho_email, fk_Endereco_cep, fk_Endereco_numero)
 VALUES
@@ -88,10 +89,10 @@ VALUES
     ('bob.williams@example.com', '34567890', '901'),
     ('emily.davis@example.com', '87654321', '456'),
     ('michael.brown@example.com', '87654321', '456');
-    
-    
+
+
 -- Populate Produto table
-INSERT INTO Produto (id, nome, descricao, preco) 
+INSERT INTO Produto (id, nome, descricao, preco)
 VALUES
     (1, 'Laptop', 'High-performance laptop', 999.99),
     (2, 'Smartphone', 'Latest model with great features', 599.99),
@@ -145,7 +146,7 @@ VALUES
     (50, 'Smart LED Strip Lights', 'RGB LED strip lights with smart control', 49.99);
 
 -- Populate Avaliacao table
-INSERT INTO Avaliacao (id, qualidade_geral, custo_beneficio, estrelas, usuario_recomenda, titulo, comentario, fk_Usuario_Carrinho_email, fk_Usuario_Carrinho_id_carrinho, fk_Produto_id) 
+INSERT INTO Avaliacao (id, qualidade_geral, custo_beneficio, estrelas, usuario_recomenda, titulo, comentario, fk_Usuario_Carrinho_email, fk_Usuario_Carrinho_id_carrinho, fk_Produto_id)
 VALUES
     (1, 4, 5, 4, TRUE, 'Great Product', 'I love this product. It exceeded my expectations.', 'john.doe@example.com', 1, 1),
     (2, 3, 4, 3, FALSE, 'Not Bad', 'Decent product for the price. Could be better.', 'jane.smith@example.com', 2, 2),
@@ -169,9 +170,9 @@ VALUES
     ('98765432109876543210987654321098765432109878', '2023-11-02', 'DEF456', '87654321', '456', 'jane.smith@example.com'),
     ('12345678901234567890123456789012345678901281', '2023-11-01', 'ABC123', '12345678', '123', 'john.doe@example.com'),
     ('98765432109876543210987654321098765432109879', '2023-11-02', 'DEF456', '87654321', '456', 'jane.smith@example.com');
-    
 
-    
+
+
 -- Populate Item_Venda table
 INSERT INTO Item_Venda (quantidade, fk_Produto_id, fk_Pedido_num_nota_fiscal)
 VALUES
@@ -216,7 +217,7 @@ VALUES
     (3, 1, '12345678901234567890123456789012345678901281'),
     (2, 2, '12345678901234567890123456789012345678901281'),
     (1, 1, '12345678901234567890123456789012345678901281');
-    
+
 -- Populate Item_Carrinho table
 INSERT INTO Item_Carrinho (quantidade, fk_Usuario_Carrinho_email, fk_Usuario_Carrinho_id_carrinho, fk_Produto_id)
 VALUES

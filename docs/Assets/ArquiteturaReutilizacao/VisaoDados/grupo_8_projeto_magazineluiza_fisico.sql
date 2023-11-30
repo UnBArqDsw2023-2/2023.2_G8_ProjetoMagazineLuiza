@@ -1,6 +1,6 @@
-create database if not exists grupo_8_magazineluiza;
+CREATE DATABASE IF NOT EXISTS grupo_8_magazineluiza;
 
-use grupo_8_magazineluiza;
+USE grupo_8_magazineluiza;
 
 -- Create Endereco table
 CREATE TABLE IF NOT EXISTS Endereco (
@@ -43,7 +43,8 @@ CREATE TABLE IF NOT EXISTS Avaliacao (
     fk_Usuario_Carrinho_email VARCHAR(64),
     fk_Usuario_Carrinho_id_carrinho INT,
     fk_Produto_id INT,
-    FOREIGN KEY (fk_Usuario_Carrinho_email, fk_Usuario_Carrinho_id_carrinho) REFERENCES Usuario (email, id_carrinho),
+    FOREIGN KEY (fk_Usuario_Carrinho_id_carrinho) REFERENCES Usuario (id_carrinho),
+    FOREIGN KEY (fk_Usuario_Carrinho_email) REFERENCES Usuario (email),
     FOREIGN KEY (fk_Produto_id) REFERENCES Produto (id)
 );
 
