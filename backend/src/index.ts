@@ -1,63 +1,15 @@
-import { ProductReviewRestController } from "./adapters/productReviewRestController";
-import { ProductReviewSoapController } from "./adapters/productReviewSoapController";
-import { ProductReviewService } from "./application/services/productReviewService";
-import { ProductReviewRepositoryImp } from "./infrastructure/repositories/productReviewRepository";
-
-class ProductReviewRouteFacade {
-  private productReviewRestController: ProductReviewRestController;
-  private productReviewSoapController: ProductReviewSoapController;
-
-  constructor() {
-    const productReviewRepositoryImp = new ProductReviewRepositoryImp();
-    const productReviewService = new ProductReviewService(productReviewRepositoryImp);
-
-    this.productReviewRestController = new ProductReviewRestController(productReviewService);
-    this.productReviewSoapController = new ProductReviewSoapController(productReviewService);
-  }
-
-  async handleProductReviewRequest(req: Request): Promise<Response> {
-    const response = await this.productReviewRestController.getProductReviews(req);
-    return new Response(`${JSON.stringify(response)}`);
-  }
-
-  async handleCreateProductReviewRequest(req: Request): Promise<Response> {
-    if (req.body) {
-      const response = await this.productReviewRestController.rateProductById(req);
-      return new Response(`${response}`);
-    } else {
-      return new Response("Missing request body");
-    }
-  }
-
-  async handleCreateProductSoapRequest(req: Request): Promise<Response> {
-    const response = await this.productReviewSoapController.rateProductById(req);
-    return new Response(`${response}`);
-  }
-
-  async handleProductReviewSoapRequest(req: Request): Promise<Response> {
-    const response = await this.productReviewSoapController.getProductReviews(req);
-    return new Response(JSON.stringify(response));
-  }
-}
+import { ProductReviewFacade } from "./infrastructure/facade/productReviewFacade";
 
 Bun.serve({
   async fetch(req: Request) {
-    const routeFacade = new ProductReviewRouteFacade();
+    const productReviewFacade = new ProductReviewFacade();
+    const response = productReviewFacade.requestAction(req);
 
-    const url = new URL(req.url);
-    const pathname = url.pathname;
-
-    switch (pathname) {
-      case "/productReview":
-        return routeFacade.handleProductReviewRequest(req);
-      case "/createProductReview":
-        return routeFacade.handleCreateProductReviewRequest(req);
-      case "/createProductSoap":
-        return routeFacade.handleCreateProductSoapRequest(req);
-      case "/productReviewSoap":
-        return routeFacade.handleProductReviewSoapRequest(req);
-      default:
-        return new Response("Invalid route");
-    }
+    return response;
   }
 });
+
+// curl -X POST localhost:3000/createProductReview 
+//    -H "Content-Type: application/json"
+//    -d '{"productId": 10, "starRating": 3.0, "reviewDescription": "Produto OK! Teste de criação REST bem sucedido!"}'
+
