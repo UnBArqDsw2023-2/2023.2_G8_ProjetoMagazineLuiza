@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'design_system_factory.dart';
+import '../design_system_factory.dart';
 
 class SimpleRatingCard implements RatingCard {
   final int rating;
